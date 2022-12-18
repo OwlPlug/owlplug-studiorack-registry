@@ -1,0 +1,27 @@
+name: Build and Deploy
+on:
+  push:
+    branches:    
+      - master
+  schedule:
+    - cron:  '30 10 * * 0'
+permissions:
+  contents: read
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@755da8c3cf115ac066823e79a1e1788f8940201b # v3
+      - uses: actions/setup-node@8c91899e586c5b171469028077307d293428b516 # v3
+        with:
+          node-version: '16'
+      - name: Install Dependencies
+        run: npm ci
+      - name: Build Registry
+        run: node index.js
+      - name: Deploy Registry
+        uses: JamesIves/github-pages-deploy-action@ba1486788b0490a235422264426c45848eac35c6 # v4
+        with:
+          folder: build
