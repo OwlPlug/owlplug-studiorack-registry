@@ -104,7 +104,7 @@ function createBundles(SRVersion) {
 
   if (SRVersion.files.win) {
     let bundle = {
-      name: "Windows Realease",
+      name: "Windows Release",
       targets: ["win32", "win64"],
       format: "unknown",
       downloadUrl: SRDownloadUrl(SRVersion.repo, SRVersion.version, SRVersion.files.win.name),
@@ -114,7 +114,7 @@ function createBundles(SRVersion) {
   }
   if (SRVersion.files.mac) {
     let bundle = {
-      name: "MacOS Realease",
+      name: "MacOS Release",
       targets: ["osx"],
       format: "unknown",
       downloadUrl: SRDownloadUrl(SRVersion.repo, SRVersion.version, SRVersion.files.mac.name),
@@ -124,7 +124,7 @@ function createBundles(SRVersion) {
   }
   if (SRVersion.files.linux) {
     let bundle = {
-      name: "Linux Realease",
+      name: "Linux Release",
       targets: ["linux32", "linux64"],
       format: "unknown",
       downloadUrl: SRDownloadUrl(SRVersion.repo, SRVersion.version, SRVersion.files.linux.name),
@@ -137,8 +137,7 @@ function createBundles(SRVersion) {
 }
 
 function SRDownloadUrl(repo, version, name) {
-  return config.github.url + "/" + repo + "/releases/download/" + version + "/" + name;
+  return config.github.url + "/" + repo + "/releases/download/v" + version + "/" + name;
 }
 
 main();
-
