@@ -2,7 +2,6 @@ const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
 
-
 const config = {
   buildDirectory: "./build",
   studiorack: {
@@ -26,13 +25,9 @@ async function main() {
   }
 
   // Collecting packages
-  console.log("Collecting studiorack effects")
-  let effectsResponse = await axios.get(config.studiorack.registryUrl + "effects.json")
-  let packages = convertToPackages(effectsResponse.data, "effect")
-
-  console.log("Collecting studiorack instruments")
-  let instrumentsResponse = await axios.get(config.studiorack.registryUrl + "instruments.json")
-  packages = packages.concat(convertToPackages(instrumentsResponse.data, "instrument"))
+  console.log("Collecting studiorack plugins...")
+  let response = await axios.get(config.studiorack.registryUrl + "index.json")
+  let packages = convertToPackages(response.data)
 
   for (let pack of packages) {
     registry.packages[pack.slug] = pack;
@@ -56,7 +51,7 @@ async function main() {
 }
 
 
-function convertToPackages(studiorackRegistry, pluginType) {
+function convertToPackages(studiorackRegistry) {
 
   let packages = [];
 
@@ -77,7 +72,7 @@ function convertToPackages(studiorackRegistry, pluginType) {
         description: SRVersion.description,
         pageUrl: SRVersion.homepage,
         version: SRVersionKey,
-        type: pluginType,
+        type: "unknown",
         screenshotUrl: null,
         tags: SRVersion.tags,
         bundles: [],
@@ -89,6 +84,7 @@ function convertToPackages(studiorackRegistry, pluginType) {
       }
 
       version.bundles = createBundles(SRVersion)
+      version.type = getTypeFromTags(SRVersion.tags)
       package.versions[SRVersion.version] = version;
     }
 
@@ -138,6 +134,19 @@ function createBundles(SRVersion) {
 
 function SRDownloadUrl(repo, version, name) {
   return config.github.url + "/" + repo + "/releases/download/v" + version + "/" + name;
+}
+
+function getTypeFromTags(tags) {
+
+  if (tags.some(item => item.toLowerCase() === "instrument")) {
+    return "instrument"
+  }
+
+  if (tags.some(item => item.toLowerCase() === "effect")) {
+    return "effect"
+  }
+  
+  return "unknown"
 }
 
 main();
