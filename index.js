@@ -103,7 +103,7 @@ function createBundles(SRVersion) {
       name: "Windows Release",
       targets: ["win32", "win64"],
       format: "unknown",
-      downloadUrl: SRDownloadUrl(SRVersion.repo, SRVersion.version, SRVersion.files.win.name),
+      downloadUrl: SRDownloadUrl(SRVersion.repo, SRVersion.release, SRVersion.files.win.name),
       fileSize: SRVersion.files.win.size
     }
     bundles.push(bundle);
@@ -113,7 +113,7 @@ function createBundles(SRVersion) {
       name: "MacOS Release",
       targets: ["osx"],
       format: "unknown",
-      downloadUrl: SRDownloadUrl(SRVersion.repo, SRVersion.version, SRVersion.files.mac.name),
+      downloadUrl: SRDownloadUrl(SRVersion.repo, SRVersion.release, SRVersion.files.mac.name),
       fileSize: SRVersion.files.mac.size
     }
     bundles.push(bundle);
@@ -123,7 +123,7 @@ function createBundles(SRVersion) {
       name: "Linux Release",
       targets: ["linux32", "linux64"],
       format: "unknown",
-      downloadUrl: SRDownloadUrl(SRVersion.repo, SRVersion.version, SRVersion.files.linux.name),
+      downloadUrl: SRDownloadUrl(SRVersion.repo, SRVersion.release, SRVersion.files.linux.name),
       fileSize: SRVersion.files.linux.size
     }
     bundles.push(bundle);
@@ -132,8 +132,8 @@ function createBundles(SRVersion) {
   return bundles;
 }
 
-function SRDownloadUrl(repo, version, name) {
-  return config.github.url + "/" + repo + "/releases/download/v" + version + "/" + name;
+function SRDownloadUrl(repo, release, name) {
+  return config.github.url + "/" + repo + "/releases/download/" + release + "/" + name;
 }
 
 function getTypeFromTags(tags) {
