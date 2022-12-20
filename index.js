@@ -80,7 +80,7 @@ function convertToPackages(studiorackRegistry) {
 
       if(SRVersion.files.image) {
         version.screenshotUrl = SRDownloadUrl(SRVersion.repo, 
-          SRVersion.version, SRVersion.files.image.name)
+          SRVersion.release, SRVersion.files.image.name)
       }
 
       version.bundles = createBundles(SRVersion)
