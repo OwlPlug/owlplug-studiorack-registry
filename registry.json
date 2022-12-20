@@ -15,7 +15,7 @@
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
           "version": "0.1.16",
           "type": "unknown",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/0.1.16/LatticeReverb.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.50.0/LatticeReverb.png",
           "tags": [
             "Fx",
             "Reverb"
@@ -66,7 +66,7 @@
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
           "version": "0.1.12",
           "type": "unknown",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/0.1.12/BasicLimiterAutoMake.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.50.0/BasicLimiterAutoMake.png",
           "tags": [
             "Fx",
             "Dynamics"
@@ -117,7 +117,7 @@
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
           "version": "0.1.14",
           "type": "unknown",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/0.1.14/EsPhaser.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.50.0/EsPhaser.png",
           "tags": [
             "Fx",
             "Modulation"
@@ -168,7 +168,7 @@
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
           "version": "0.2.14",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/0.2.14/FDNCymbal.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.50.0/FDNCymbal.png",
           "tags": [
             "Fx",
             "Instrument"
@@ -219,7 +219,7 @@
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
           "version": "0.1.10",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/0.1.10/CollidingCombSynth.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.50.0/CollidingCombSynth.png",
           "tags": [
             "Instrument",
             "Synth"
@@ -270,7 +270,7 @@
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
           "version": "0.1.21",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/0.1.21/TrapezoidSynth.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.50.0/TrapezoidSynth.png",
           "tags": [
             "Instrument",
             "Synth"
@@ -321,7 +321,7 @@
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
           "version": "0.1.19",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/0.1.19/EnvelopedSine.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.50.0/EnvelopedSine.png",
           "tags": [
             "Instrument",
             "Synth"
@@ -372,7 +372,7 @@
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
           "version": "0.1.9",
           "type": "unknown",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/0.1.9/FDN64Reverb.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.50.0/FDN64Reverb.png",
           "tags": [
             "Fx",
             "Reverb"
@@ -423,7 +423,7 @@
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
           "version": "0.1.20",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/0.1.20/IterativeSinCluster.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.50.0/IterativeSinCluster.png",
           "tags": [
             "Instrument",
             "Synth"
@@ -474,7 +474,7 @@
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
           "version": "0.1.17",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/0.1.17/LightPadSynth.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.50.0/LightPadSynth.png",
           "tags": [
             "Instrument",
             "Synth"
@@ -525,7 +525,7 @@
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
           "version": "0.1.13",
           "type": "unknown",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/0.1.13/L3Reverb.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.50.0/L3Reverb.png",
           "tags": [
             "Fx",
             "Reverb"
@@ -576,7 +576,7 @@
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
           "version": "0.1.23",
           "type": "unknown",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/0.1.23/SevenDelay.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.50.0/SevenDelay.png",
           "tags": [
             "Fx",
             "Delay"
@@ -627,7 +627,7 @@
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
           "version": "0.1.25",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/0.1.25/SyncSawSynth.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.50.0/SyncSawSynth.png",
           "tags": [
             "Instrument",
             "Synth"
@@ -678,7 +678,7 @@
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
           "version": "0.1.19",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/0.1.19/CubicPadSynth.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.50.0/CubicPadSynth.png",
           "tags": [
             "Instrument",
             "Synth"
@@ -729,7 +729,7 @@
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
           "version": "0.1.21",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/0.1.21/WaveCymbal.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.50.0/WaveCymbal.png",
           "tags": [
             "Fx",
             "Instrument"
@@ -780,7 +780,7 @@
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
           "version": "0.1.12",
           "type": "unknown",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/0.1.12/BasicLimiter.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.50.0/BasicLimiter.png",
           "tags": [
             "Fx",
             "Dynamics"
@@ -831,7 +831,7 @@
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
           "version": "0.1.13",
           "type": "unknown",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/0.1.13/L4Reverb.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.50.0/L4Reverb.png",
           "tags": [
             "Fx",
             "Reverb"
@@ -882,7 +882,7 @@
           "pageUrl": "https://github.com/reales/OPL",
           "version": "2.1.0",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/opl/releases/download/2.1.0/opl.jpg",
+          "screenshotUrl": "https://github.com/studiorack/opl/releases/download/v2.1.0/opl.jpg",
           "tags": [
             "Instrument",
             "Synth",
@@ -934,7 +934,7 @@
           "pageUrl": "https://freepats.zenvoid.org",
           "version": "1.0.0",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/freepats/glass/releases/download/1.0.0/Glass-20191227.jpg",
+          "screenshotUrl": "https://github.com/freepats/glass/releases/download/v1.0.0/Glass-20191227.jpg",
           "tags": [
             "Instrument",
             "Orchestra",
@@ -987,7 +987,7 @@
           "pageUrl": "https://freepats.zenvoid.org",
           "version": "1.0.0",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/freepats/hang-d-minor/releases/download/1.0.0/Hang-D-minor-20220330.jpg",
+          "screenshotUrl": "https://github.com/freepats/hang-d-minor/releases/download/v1.0.0/Hang-D-minor-20220330.jpg",
           "tags": [
             "Instrument",
             "Orchestra",
@@ -1040,7 +1040,7 @@
           "pageUrl": "https://freepats.zenvoid.org",
           "version": "1.0.0",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/freepats/synthesizer-percussion/releases/download/1.0.0/SynthesizerPercussion-20220718.jpg",
+          "screenshotUrl": "https://github.com/freepats/synthesizer-percussion/releases/download/v1.0.0/SynthesizerPercussion-20220718.jpg",
           "tags": [
             "Instrument",
             "Drums",
@@ -1093,7 +1093,7 @@
           "pageUrl": "https://freepats.zenvoid.org",
           "version": "1.0.0",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/freepats/upright-piano-kw/releases/download/1.0.0/UprightPianoKW-20220221.jpg",
+          "screenshotUrl": "https://github.com/freepats/upright-piano-kw/releases/download/v1.0.0/UprightPianoKW-20220221.jpg",
           "tags": [
             "Instrument",
             "Keys",
@@ -1146,7 +1146,7 @@
           "pageUrl": "https://mourednik.github.io/argotlunar/",
           "version": "2.0.6",
           "type": "effect",
-          "screenshotUrl": "https://github.com/studiorack/argotlunar/releases/download/2.0.6/argotlunar.jpg",
+          "screenshotUrl": "https://github.com/studiorack/argotlunar/releases/download/v2.0.6/argotlunar.jpg",
           "tags": [
             "Effect",
             "Delay",
@@ -1198,7 +1198,7 @@
           "pageUrl": "https://plugins.iem.at",
           "version": "1.13.0",
           "type": "effect",
-          "screenshotUrl": "https://github.com/studiorack/iem-plugin-suite/releases/download/1.13.0/iem-plugin-suite.jpg",
+          "screenshotUrl": "https://github.com/studiorack/iem-plugin-suite/releases/download/v1.13.0/iem-plugin-suite.jpg",
           "tags": [
             "Effect",
             "Reverb",
@@ -1250,7 +1250,7 @@
           "pageUrl": "https://freepats.zenvoid.org",
           "version": "1.0.0",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/freepats/spanish-classical-guitar/releases/download/1.0.0/SpanishClassicalGuitar-20190618.jpg",
+          "screenshotUrl": "https://github.com/freepats/spanish-classical-guitar/releases/download/v1.0.0/SpanishClassicalGuitar-20190618.jpg",
           "tags": [
             "Instrument",
             "Guitar",
@@ -1303,7 +1303,7 @@
           "pageUrl": "https://github.com/jpcima/ADLplug",
           "version": "1.0.2",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/adlplug/releases/download/1.0.2/adlplug.jpg",
+          "screenshotUrl": "https://github.com/studiorack/adlplug/releases/download/v1.0.2/adlplug.jpg",
           "tags": [
             "Instrument",
             "Synth",
@@ -1355,7 +1355,7 @@
           "pageUrl": "https://github.com/jpcima/ADLplug",
           "version": "1.0.2",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/adlplug/releases/download/1.0.2/opnplug.jpg",
+          "screenshotUrl": "https://github.com/studiorack/adlplug/releases/download/v1.0.2/opnplug.jpg",
           "tags": [
             "Instrument",
             "Synth",
@@ -1407,7 +1407,7 @@
           "pageUrl": "https://artfwo.github.io/andes/",
           "version": "0.2.0",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/andes/releases/download/0.2.0/andes.jpg",
+          "screenshotUrl": "https://github.com/studiorack/andes/releases/download/v0.2.0/andes.jpg",
           "tags": [
             "Instrument",
             "Synth",
@@ -1459,7 +1459,7 @@
           "pageUrl": "https://github.com/oxesoft/oxefmsynth",
           "version": "1.3.5",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/oxe/releases/download/1.3.5/oxe.jpg",
+          "screenshotUrl": "https://github.com/studiorack/oxe/releases/download/v1.3.5/oxe.jpg",
           "tags": [
             "Instrument",
             "Synth",
@@ -1511,7 +1511,7 @@
           "pageUrl": "https://github.com/michael02022/basic-harmonica",
           "version": "1.0.0",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/basic-harmonica/releases/download/1.0.0/basic-harmonica.jpg",
+          "screenshotUrl": "https://github.com/studiorack/basic-harmonica/releases/download/v1.0.0/basic-harmonica.jpg",
           "tags": [
             "Instrument",
             "Wind",
@@ -1564,7 +1564,7 @@
           "pageUrl": "https://github.com/paynebc/tunefish",
           "version": "4.0.0",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/tunefish/releases/download/4.0.0/tunefish.jpg",
+          "screenshotUrl": "https://github.com/studiorack/tunefish/releases/download/v4.2.0/tunefish.jpg",
           "tags": [
             "Instrument",
             "Synth",
@@ -1616,7 +1616,7 @@
           "pageUrl": "https://github.com/DISTRHO/Kars",
           "version": "1.0.0",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/kars/releases/download/1.0.0/kars.jpg",
+          "screenshotUrl": "https://github.com/studiorack/kars/releases/download/v1.0.0/kars.jpg",
           "tags": [
             "Instrument",
             "Synth",
@@ -1668,7 +1668,7 @@
           "pageUrl": "https://github.com/wolf-plugins/wolf-shaper",
           "version": "0.1.8",
           "type": "effect",
-          "screenshotUrl": "https://github.com/studiorack/wolf-shaper/releases/download/0.1.8/wolf-shaper.jpg",
+          "screenshotUrl": "https://github.com/studiorack/wolf-shaper/releases/download/v0.1.8/wolf-shaper.jpg",
           "tags": [
             "Effect",
             "Distortion",
@@ -1720,7 +1720,7 @@
           "pageUrl": "https://github.com/DISTRHO/Nekobi",
           "version": "1.0.0",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/nekobi/releases/download/1.0.0/nekobi.jpg",
+          "screenshotUrl": "https://github.com/studiorack/nekobi/releases/download/v1.0.0/nekobi.jpg",
           "tags": [
             "Instrument",
             "Synth",
@@ -1772,7 +1772,7 @@
           "pageUrl": "https://sfzinstruments.github.io/pianos/jrhodes3c",
           "version": "1.0.0",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/jrhodes-3c/releases/download/1.0.0/jrhodes-3c.jpg",
+          "screenshotUrl": "https://github.com/studiorack/jrhodes-3c/releases/download/v1.0.0/jrhodes-3c.jpg",
           "tags": [
             "Instrument",
             "Keys",
@@ -1825,7 +1825,7 @@
           "pageUrl": "https://github.com/MikeMorenoDSP/EP-MK1",
           "version": "2.4.0",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/ep-mk1/releases/download/2.4.0/ep-mk1.jpg",
+          "screenshotUrl": "https://github.com/studiorack/ep-mk1/releases/download/v2.4.0/ep-mk1.jpg",
           "tags": [
             "Instrument",
             "Synth",
@@ -1878,7 +1878,7 @@
           "pageUrl": "http://www.bandshed.net/avldrumkits",
           "version": "1.1.0",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/avl-percussions/releases/download/1.1.0/avl-percussions.jpg",
+          "screenshotUrl": "https://github.com/studiorack/avl-percussions/releases/download/v1.1.0/avl-percussions.jpg",
           "tags": [
             "Instrument",
             "Drums",
@@ -1931,7 +1931,7 @@
           "pageUrl": "https://wilkinsonaudio.com/products/naked-drums",
           "version": "1.0.0",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/naked-drums/releases/download/1.0.0/naked-drums.jpg",
+          "screenshotUrl": "https://github.com/studiorack/naked-drums/releases/download/v1.0.0/naked-drums.jpg",
           "tags": [
             "Instrument",
             "Drums",
@@ -1983,7 +1983,7 @@
           "pageUrl": "https://michaelwillis.github.io/dragonfly-reverb/",
           "version": "3.2.5",
           "type": "effect",
-          "screenshotUrl": "https://github.com/studiorack/dragonfly-reverb/releases/download/3.2.5/dragonfly-reverb.jpg",
+          "screenshotUrl": "https://github.com/studiorack/dragonfly-reverb/releases/download/v3.2.5/dragonfly-reverb.jpg",
           "tags": [
             "Effect",
             "Reverb",
@@ -2035,7 +2035,7 @@
           "pageUrl": "https://github.com/robbert-vdh/diopser",
           "version": "0.0.1",
           "type": "effect",
-          "screenshotUrl": "https://github.com/studiorack/diopser/releases/download/0.0.1/diopser.jpg",
+          "screenshotUrl": "https://github.com/studiorack/diopser/releases/download/v0.0.1/diopser.jpg",
           "tags": [
             "Effect",
             "Phaser",
@@ -2087,7 +2087,7 @@
           "pageUrl": "https://sfzinstruments.github.io/pianos/splendid_grand_piano",
           "version": "1.0.0",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/splendid-grand-piano/releases/download/1.0.0/splendid-grand-piano.jpg",
+          "screenshotUrl": "https://github.com/studiorack/splendid-grand-piano/releases/download/v1.0.0/splendid-grand-piano.jpg",
           "tags": [
             "Instrument",
             "Keys",
@@ -2140,7 +2140,7 @@
           "pageUrl": "https://github.com/mtytel/helm",
           "version": "0.9.0",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/helm/releases/download/0.9.0/helm.jpg",
+          "screenshotUrl": "https://github.com/studiorack/helm/releases/download/v0.9.0/helm.jpg",
           "tags": [
             "Instrument",
             "Synth",
@@ -2192,7 +2192,7 @@
           "pageUrl": "https://github.com/igorski/regrader",
           "version": "1.0.4",
           "type": "effect",
-          "screenshotUrl": "https://github.com/studiorack/regrader/releases/download/1.0.4/regrader.jpg",
+          "screenshotUrl": "https://github.com/studiorack/regrader/releases/download/v1.0.4/regrader.jpg",
           "tags": [
             "Effect",
             "Delay",
@@ -2244,7 +2244,7 @@
           "pageUrl": "https://github.com/resonantdsp/swankyamp",
           "version": "1.4.0",
           "type": "effect",
-          "screenshotUrl": "https://github.com/studiorack/swankyamp/releases/download/1.4.0/swankyamp.jpg",
+          "screenshotUrl": "https://github.com/studiorack/swankyamp/releases/download/v1.4.0/swankyamp.jpg",
           "tags": [
             "Effect",
             "Amplifier",
