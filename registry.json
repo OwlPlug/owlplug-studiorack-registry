@@ -14,7 +14,7 @@
           "description": "LatticeReverb is a reverb using lattice structure. Equipped with 16 delays per channel.",
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
           "version": "0.1.16",
-          "type": "unknown",
+          "type": "effect",
           "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.50.0/LatticeReverb.png",
           "tags": [
             "Fx",
@@ -65,7 +65,7 @@
           "description": "BasicLimiter is a basic single band limiter. The sound is nothing new, but the design of true peak mode is a bit luxurious.",
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
           "version": "0.1.12",
-          "type": "unknown",
+          "type": "effect",
           "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.50.0/BasicLimiterAutoMake.png",
           "tags": [
             "Fx",
@@ -116,7 +116,7 @@
           "description": "EsPhaser is a phaser with up to 4096 stages of order 2 Thiran all-pass filters. This is the same phaser used in EnvelopedSine.",
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
           "version": "0.1.14",
-          "type": "unknown",
+          "type": "effect",
           "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.50.0/EsPhaser.png",
           "tags": [
             "Fx",
@@ -371,7 +371,7 @@
           "description": "FDN64Reverb is a reverb equipped with a feedback delay network (FDN). However, the size of feedback matrix is 64.",
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
           "version": "0.1.9",
-          "type": "unknown",
+          "type": "effect",
           "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.50.0/FDN64Reverb.png",
           "tags": [
             "Fx",
@@ -524,7 +524,7 @@
           "description": "L4Reverb is an extended version of LatticeReverb. This time, lattice structure has 4 * 4 * 4 * 4 = 256 sections per channel.",
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
           "version": "0.1.13",
-          "type": "unknown",
+          "type": "effect",
           "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.50.0/L3Reverb.png",
           "tags": [
             "Fx",
@@ -575,7 +575,7 @@
           "description": "SevenDelay is a stereo delay with 7th order lagrange interpolated fractional delay and 7x oversampling.",
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
           "version": "0.1.23",
-          "type": "unknown",
+          "type": "effect",
           "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.50.0/SevenDelay.png",
           "tags": [
             "Fx",
@@ -779,7 +779,7 @@
           "description": "BasicLimiter is a basic single band limiter. The sound is nothing new, but the design of true peak mode is a bit luxurious.",
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
           "version": "0.1.12",
-          "type": "unknown",
+          "type": "effect",
           "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.50.0/BasicLimiter.png",
           "tags": [
             "Fx",
@@ -830,7 +830,7 @@
           "description": "L4Reverb is an extended version of LatticeReverb. This time, lattice structure has 4 * 4 * 4 * 4 = 256 sections per channel.",
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
           "version": "0.1.13",
-          "type": "unknown",
+          "type": "effect",
           "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.50.0/L4Reverb.png",
           "tags": [
             "Fx",
