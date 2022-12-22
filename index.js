@@ -142,7 +142,8 @@ function getTypeFromTags(tags) {
     return "instrument"
   }
 
-  if (tags.some(item => item.toLowerCase() === "effect")) {
+  if (tags.some(item => item.toLowerCase() === "effect" 
+      || item.toLowerCase() === "fx")) {
     return "effect"
   }
   
