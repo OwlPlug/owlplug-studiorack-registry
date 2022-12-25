@@ -1447,6 +1447,110 @@
         }
       }
     },
+    "studiorack/tunefish/tunefish": {
+      "slug": "studiorack/tunefish/tunefish",
+      "latestVersion": "4.0.0",
+      "versions": {
+        "4.0.0": {
+          "name": "Tunefish",
+          "creator": "Brain Control",
+          "license": "gpl-3.0",
+          "description": "Tunefish is a tiny virtual analogue synth that was originally developed  for the 64k intros of the demo group Brain Control.",
+          "pageUrl": "https://github.com/paynebc/tunefish",
+          "version": "4.0.0",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/studiorack/tunefish/releases/download/v4.2.0/tunefish.jpg",
+          "tags": [
+            "Instrument",
+            "Synth",
+            "Analog"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/tunefish/releases/download/v4.2.0/tunefish-win.zip",
+              "fileSize": 4147020
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/tunefish/releases/download/v4.2.0/tunefish-mac.zip",
+              "fileSize": 6443515
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/tunefish/releases/download/v4.2.0/tunefish-linux.zip",
+              "fileSize": 3569540
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/kars/kars": {
+      "slug": "studiorack/kars/kars",
+      "latestVersion": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "Kars",
+          "creator": "Filipe Coelho",
+          "license": "isc",
+          "description": "Simple karplus-strong plucked string synth.",
+          "pageUrl": "https://github.com/DISTRHO/Kars",
+          "version": "1.0.0",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/studiorack/kars/releases/download/v1.0.0/kars.jpg",
+          "tags": [
+            "Instrument",
+            "Synth",
+            "String"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/kars/releases/download/v1.0.0/kars-win.zip",
+              "fileSize": 1177464
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/kars/releases/download/v1.0.0/kars-mac.zip",
+              "fileSize": 1330027
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/kars/releases/download/v1.0.0/kars-linux.zip",
+              "fileSize": 1146039
+            }
+          ]
+        }
+      }
+    },
     "studiorack/oxe/oxe": {
       "slug": "studiorack/oxe/oxe",
       "latestVersion": "1.3.5",
@@ -1547,110 +1651,6 @@
               "format": "unknown",
               "downloadUrl": "https://github.com/studiorack/basic-harmonica/releases/download/v1.0.0/basic-harmonica.zip",
               "fileSize": 1404185
-            }
-          ]
-        }
-      }
-    },
-    "studiorack/tunefish/tunefish": {
-      "slug": "studiorack/tunefish/tunefish",
-      "latestVersion": "4.0.0",
-      "versions": {
-        "4.0.0": {
-          "name": "Tunefish",
-          "creator": "Brain Control",
-          "license": "gpl-3.0",
-          "description": "Tunefish is a tiny virtual analogue synth that was originally developed  for the 64k intros of the demo group Brain Control.",
-          "pageUrl": "https://github.com/paynebc/tunefish",
-          "version": "4.0.0",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/tunefish/releases/download/v4.2.0/tunefish.jpg",
-          "tags": [
-            "Instrument",
-            "Synth",
-            "Analog"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/tunefish/releases/download/v4.2.0/tunefish-win.zip",
-              "fileSize": 4147020
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/tunefish/releases/download/v4.2.0/tunefish-mac.zip",
-              "fileSize": 6443515
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/tunefish/releases/download/v4.2.0/tunefish-linux.zip",
-              "fileSize": 3569540
-            }
-          ]
-        }
-      }
-    },
-    "studiorack/kars/kars": {
-      "slug": "studiorack/kars/kars",
-      "latestVersion": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "name": "Kars",
-          "creator": "Filipe Coelho",
-          "license": "isc",
-          "description": "Simple karplus-strong plucked string synth.",
-          "pageUrl": "https://github.com/DISTRHO/Kars",
-          "version": "1.0.0",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/kars/releases/download/v1.0.0/kars.jpg",
-          "tags": [
-            "Instrument",
-            "Synth",
-            "String"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/kars/releases/download/v1.0.0/kars-win.zip",
-              "fileSize": 1177464
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/kars/releases/download/v1.0.0/kars-mac.zip",
-              "fileSize": 1330027
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/kars/releases/download/v1.0.0/kars-linux.zip",
-              "fileSize": 1146039
             }
           ]
         }
@@ -1813,6 +1813,163 @@
         }
       }
     },
+    "studiorack/dragonfly-reverb/dragonfly-reverb": {
+      "slug": "studiorack/dragonfly-reverb/dragonfly-reverb",
+      "latestVersion": "3.2.5",
+      "versions": {
+        "3.2.5": {
+          "name": "Dragonfly Reverb",
+          "creator": "Michael Willis",
+          "license": "gpl-3.0",
+          "description": "Dragonfly Reverb is a bundle of free audio effect plugins for Linux, MacOS, and Windows.",
+          "pageUrl": "https://michaelwillis.github.io/dragonfly-reverb/",
+          "version": "3.2.5",
+          "type": "effect",
+          "screenshotUrl": "https://github.com/studiorack/dragonfly-reverb/releases/download/v3.2.5/dragonfly-reverb.jpg",
+          "tags": [
+            "Effect",
+            "Reverb",
+            "Plate"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/dragonfly-reverb/releases/download/v3.2.5/dragonfly-reverb-win.zip",
+              "fileSize": 9359636
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/dragonfly-reverb/releases/download/v3.2.5/dragonfly-reverb-mac.zip",
+              "fileSize": 4542730
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/dragonfly-reverb/releases/download/v3.2.5/dragonfly-reverb-linux.zip",
+              "fileSize": 6921808
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/diopser/diopser": {
+      "slug": "studiorack/diopser/diopser",
+      "latestVersion": "0.0.1",
+      "versions": {
+        "0.0.1": {
+          "name": "Diopser",
+          "creator": "Robbert van der Helm",
+          "license": "gpl-3.0",
+          "description": "Rotate the phase of a signal around a specific frequency without affecting its spectral content.",
+          "pageUrl": "https://github.com/robbert-vdh/diopser",
+          "version": "0.0.1",
+          "type": "effect",
+          "screenshotUrl": "https://github.com/studiorack/diopser/releases/download/v0.0.1/diopser.jpg",
+          "tags": [
+            "Effect",
+            "Phaser",
+            "Frequency"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/diopser/releases/download/v0.0.1/diopser-win.zip",
+              "fileSize": 2017988
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/diopser/releases/download/v0.0.1/diopser-mac.zip",
+              "fileSize": 1894438
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/diopser/releases/download/v0.0.1/diopser-linux.zip",
+              "fileSize": 1767254
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/splendid-grand-piano/splendid-grand-piano": {
+      "slug": "studiorack/splendid-grand-piano/splendid-grand-piano",
+      "latestVersion": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "Splendid Grand Piano",
+          "creator": "Akai",
+          "license": "other",
+          "description": "Steinway piano with 4 velocity layers",
+          "pageUrl": "https://sfzinstruments.github.io/pianos/splendid_grand_piano",
+          "version": "1.0.0",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/studiorack/splendid-grand-piano/releases/download/v1.0.0/splendid-grand-piano.jpg",
+          "tags": [
+            "Instrument",
+            "Keys",
+            "Piano",
+            "sfz"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/splendid-grand-piano/releases/download/v1.0.0/splendid-grand-piano.zip",
+              "fileSize": 74736682
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/splendid-grand-piano/releases/download/v1.0.0/splendid-grand-piano.zip",
+              "fileSize": 74736682
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/splendid-grand-piano/releases/download/v1.0.0/splendid-grand-piano.zip",
+              "fileSize": 74736682
+            }
+          ]
+        }
+      }
+    },
     "studiorack/ep-mk1/ep-mk1": {
       "slug": "studiorack/ep-mk1/ep-mk1",
       "latestVersion": "2.4.0",
@@ -1966,163 +2123,6 @@
               "format": "unknown",
               "downloadUrl": "https://github.com/studiorack/naked-drums/releases/download/v1.0.0/naked-drums.zip",
               "fileSize": 1283342538
-            }
-          ]
-        }
-      }
-    },
-    "studiorack/dragonfly-reverb/dragonfly-reverb": {
-      "slug": "studiorack/dragonfly-reverb/dragonfly-reverb",
-      "latestVersion": "3.2.5",
-      "versions": {
-        "3.2.5": {
-          "name": "Dragonfly Reverb",
-          "creator": "Michael Willis",
-          "license": "gpl-3.0",
-          "description": "Dragonfly Reverb is a bundle of free audio effect plugins for Linux, MacOS, and Windows.",
-          "pageUrl": "https://michaelwillis.github.io/dragonfly-reverb/",
-          "version": "3.2.5",
-          "type": "effect",
-          "screenshotUrl": "https://github.com/studiorack/dragonfly-reverb/releases/download/v3.2.5/dragonfly-reverb.jpg",
-          "tags": [
-            "Effect",
-            "Reverb",
-            "Plate"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/dragonfly-reverb/releases/download/v3.2.5/dragonfly-reverb-win.zip",
-              "fileSize": 9359636
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/dragonfly-reverb/releases/download/v3.2.5/dragonfly-reverb-mac.zip",
-              "fileSize": 4542730
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/dragonfly-reverb/releases/download/v3.2.5/dragonfly-reverb-linux.zip",
-              "fileSize": 6921808
-            }
-          ]
-        }
-      }
-    },
-    "studiorack/diopser/diopser": {
-      "slug": "studiorack/diopser/diopser",
-      "latestVersion": "0.0.1",
-      "versions": {
-        "0.0.1": {
-          "name": "Diopser",
-          "creator": "Robbert van der Helm",
-          "license": "gpl-3.0",
-          "description": "Rotate the phase of a signal around a specific frequency without affecting its spectral content.",
-          "pageUrl": "https://github.com/robbert-vdh/diopser",
-          "version": "0.0.1",
-          "type": "effect",
-          "screenshotUrl": "https://github.com/studiorack/diopser/releases/download/v0.0.1/diopser.jpg",
-          "tags": [
-            "Effect",
-            "Phaser",
-            "Frequency"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/diopser/releases/download/v0.0.1/diopser-win.zip",
-              "fileSize": 2017988
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/diopser/releases/download/v0.0.1/diopser-mac.zip",
-              "fileSize": 1894438
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/diopser/releases/download/v0.0.1/diopser-linux.zip",
-              "fileSize": 1767254
-            }
-          ]
-        }
-      }
-    },
-    "studiorack/splendid-grand-piano/splendid-grand-piano": {
-      "slug": "studiorack/splendid-grand-piano/splendid-grand-piano",
-      "latestVersion": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "name": "Splendid Grand Piano",
-          "creator": "Akai",
-          "license": "other",
-          "description": "Steinway piano with 4 velocity layers",
-          "pageUrl": "https://sfzinstruments.github.io/pianos/splendid_grand_piano",
-          "version": "1.0.0",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/splendid-grand-piano/releases/download/v1.0.0/splendid-grand-piano.jpg",
-          "tags": [
-            "Instrument",
-            "Keys",
-            "Piano",
-            "sfz"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/splendid-grand-piano/releases/download/v1.0.0/splendid-grand-piano.zip",
-              "fileSize": 74736682
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/splendid-grand-piano/releases/download/v1.0.0/splendid-grand-piano.zip",
-              "fileSize": 74736682
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/splendid-grand-piano/releases/download/v1.0.0/splendid-grand-piano.zip",
-              "fileSize": 74736682
             }
           ]
         }
@@ -2331,6 +2331,372 @@
               "format": "unknown",
               "downloadUrl": "https://github.com/studiorack/juicysf/releases/download/3.1.0/juicysf-linux.zip",
               "fileSize": 0
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/dexed/dexed": {
+      "slug": "studiorack/dexed/dexed",
+      "latestVersion": "0.9.6",
+      "versions": {
+        "0.9.6": {
+          "name": "Dexed",
+          "creator": "Pascal Gauthier",
+          "license": "gpl-3.0",
+          "description": "Synthesizer closely modeled on the Yamaha DX7",
+          "pageUrl": "http://asb2m10.github.io/dexed/",
+          "version": "0.9.6",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/studiorack/dexed/releases/download/v0.9.6/dexed.jpg",
+          "tags": [
+            "Instrument",
+            "Synth",
+            "FM"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/dexed/releases/download/v0.9.6/dexed-win.zip",
+              "fileSize": 2588488
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/dexed/releases/download/v0.9.6/dexed-mac.zip",
+              "fileSize": 9146576
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/dexed/releases/download/v0.9.6/dexed-linux.zip",
+              "fileSize": 6296573
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/wolf-spectrum/wolf-spectrum": {
+      "slug": "studiorack/wolf-spectrum/wolf-spectrum",
+      "latestVersion": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "Wolf Spectrum",
+          "creator": "Wolf Plugins",
+          "license": "gpl-3.0",
+          "description": "Spectrogram plugin which supports both log and linear frequency scaling",
+          "pageUrl": "https://github.com/wolf-plugins/wolf-spectrum",
+          "version": "1.0.0",
+          "type": "effect",
+          "screenshotUrl": "https://github.com/studiorack/wolf-spectrum/releases/download/v1.0.0/wolf-spectrum.jpg",
+          "tags": [
+            "Effect",
+            "Spectrogram",
+            "Frequency"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/wolf-spectrum/releases/download/v1.0.0/wolf-spectrum-win.zip",
+              "fileSize": 853963
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/wolf-spectrum/releases/download/v1.0.0/wolf-spectrum-mac.zip",
+              "fileSize": 493633
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/wolf-spectrum/releases/download/v1.0.0/wolf-spectrum-linux.zip",
+              "fileSize": 994607
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/black-and-green-guitars/black-and-green-guitars": {
+      "slug": "studiorack/black-and-green-guitars/black-and-green-guitars",
+      "latestVersion": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "Black and Green Guitars",
+          "creator": "DSmolken",
+          "license": "cc0-1.0",
+          "description": "Black Hofner Club and Green Gretsch Anniversary electric guitars",
+          "pageUrl": "https://github.com/sfzinstruments/karoryfer.black-and-green-guitars",
+          "version": "1.0.0",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/studiorack/black-and-green-guitars/releases/download/v1.0.0/black-and-green-guitars.jpg",
+          "tags": [
+            "Instrument",
+            "Guitar",
+            "Electric",
+            "sfz"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/black-and-green-guitars/releases/download/v1.0.0/black-and-green-guitars.zip",
+              "fileSize": 292323008
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/black-and-green-guitars/releases/download/v1.0.0/black-and-green-guitars.zip",
+              "fileSize": 292323008
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/black-and-green-guitars/releases/download/v1.0.0/black-and-green-guitars.zip",
+              "fileSize": 292323008
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/horse-pulse/horse-pulse": {
+      "slug": "studiorack/horse-pulse/horse-pulse",
+      "latestVersion": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "Horse Pulse",
+          "creator": "DSmolken",
+          "license": "cc0-1.0",
+          "description": "Bass Tagelharpa played pizzicato",
+          "pageUrl": "https://github.com/sfzinstruments/Karoryfer.HorsePulse",
+          "version": "1.0.0",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/studiorack/horse-pulse/releases/download/v1.0.0/horse-pulse.jpg",
+          "tags": [
+            "Instrument",
+            "String",
+            "Pluck",
+            "sfz"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/horse-pulse/releases/download/v1.0.0/horse-pulse.zip",
+              "fileSize": 74462529
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/horse-pulse/releases/download/v1.0.0/horse-pulse.zip",
+              "fileSize": 74462529
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/horse-pulse/releases/download/v1.0.0/horse-pulse.zip",
+              "fileSize": 74462529
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/mverb/mverb": {
+      "slug": "studiorack/mverb/mverb",
+      "latestVersion": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "Mverb",
+          "creator": "Martin Eastwood",
+          "license": "gpl-3.0",
+          "description": "Studio quality, open-source reverb. Its release was intended to provide a practical demonstration of Dattorro’s figure-of-eight reverb structure and provide the open source community with a high quality reverb.",
+          "pageUrl": "https://github.com/martineastwood/mverb",
+          "version": "1.0.0",
+          "type": "effect",
+          "screenshotUrl": "https://github.com/studiorack/mverb/releases/download/v1.0.0/mverb.jpg",
+          "tags": [
+            "Effect",
+            "Reverb"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/mverb/releases/download/v1.0.0/mverb-win.zip",
+              "fileSize": 283901
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/mverb/releases/download/v1.0.0/mverb-mac.zip",
+              "fileSize": 674694
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/mverb/releases/download/v1.0.0/mverb-linux.zip",
+              "fileSize": 188933
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/smartguitaramp/smartguitaramp": {
+      "slug": "studiorack/smartguitaramp/smartguitaramp",
+      "latestVersion": "1.2.0",
+      "versions": {
+        "1.2.0": {
+          "name": "SmartGuitarAmp",
+          "creator": "GuitarML",
+          "license": "apache-2.0",
+          "description": "Uses a WaveNet model to recreate the sound of real world hardware. Models a small tube amp with a clean/lead channel. Gain and EQ knobs modulate the modeled sound.",
+          "pageUrl": "https://github.com/GuitarML/SmartGuitarAmp",
+          "version": "1.2.0",
+          "type": "effect",
+          "screenshotUrl": "https://github.com/studiorack/smartguitaramp/releases/download/v1.2.0/smartguitaramp.jpg",
+          "tags": [
+            "Effect",
+            "Guitar",
+            "Amp"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/smartguitaramp/releases/download/v1.2.0/smartguitaramp-win.zip",
+              "fileSize": 3652195
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/smartguitaramp/releases/download/v1.2.0/smartguitaramp-mac.zip",
+              "fileSize": 6417447
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/smartguitaramp/releases/download/v1.2.0/smartguitaramp-linux.zip",
+              "fileSize": 5155080
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/sams-sonor/sams-sonor": {
+      "slug": "studiorack/sams-sonor/sams-sonor",
+      "latestVersion": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "Sam's Sonor",
+          "creator": "Sam Greene",
+          "license": "cc-by-sa-4.0",
+          "description": "Sonor Force 3001 drum kit sampled with 4 velocity levels for each part.",
+          "pageUrl": "https://github.com/sfzinstruments/SamsSonor",
+          "version": "1.0.0",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/studiorack/sams-sonor/releases/download/v1.0.0/sams-sonor.jpg",
+          "tags": [
+            "Instrument",
+            "Drums",
+            "Kit",
+            "sfz"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/sams-sonor/releases/download/v1.0.0/sams-sonor.zip",
+              "fileSize": 36642874
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/sams-sonor/releases/download/v1.0.0/sams-sonor.zip",
+              "fileSize": 36642874
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/sams-sonor/releases/download/v1.0.0/sams-sonor.zip",
+              "fileSize": 36642874
             }
           ]
         }
