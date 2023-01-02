@@ -16,7 +16,7 @@ async function main() {
 
   console.log("Starting studiorack registry adapter")
 
-  // Init registry metadara
+  // Init registry metadata
   let registry = {
     name: "Studiorack Registry",
     url: config.studiorack.registryUrl,
@@ -85,10 +85,20 @@ function convertToPackages(studiorackRegistry) {
 
       version.bundles = createBundles(SRVersion)
       version.type = getTypeFromTags(SRVersion.tags)
-      package.versions[SRVersion.version] = version;
+      
+      if(isOwlPlugCompatible(version)) {
+        package.versions[SRVersion.version] = version;
+      }
+      
     }
 
-    packages.push(package)
+    // If package have at least one version defined, it's added to the list.
+    if (Object.keys(package.versions).length > 0) {
+      packages.push(package)
+    } else {
+      console.log(`Skipping package ${package.slug} because no compatible version has been found.`)
+    }
+    
   }
 
   return packages;
@@ -148,6 +158,13 @@ function getTypeFromTags(tags) {
   }
   
   return "unknown"
+}
+
+function isOwlPlugCompatible(version) {
+
+  // Exclude SFZ tagged version because OwlPlug can't track them after installation
+  return !(version.tags.some(item => item.toLowerCase() === "sfz"));
+
 }
 
 main();
