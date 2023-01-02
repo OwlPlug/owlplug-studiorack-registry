@@ -1462,218 +1462,6 @@
         }
       }
     },
-    "freepats/glass/glasses-of-water": {
-      "slug": "freepats/glass/glasses-of-water",
-      "latestVersion": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "name": "Glasses Of Water",
-          "creator": "Freepats",
-          "license": "cc0-1.0",
-          "description": "Musical instrument made with glasses of water, recorded with an AKG Perception 120 microphone.",
-          "pageUrl": "https://freepats.zenvoid.org",
-          "version": "1.0.0",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/freepats/glass/releases/download/v1.0.0/Glass-20191227.jpg",
-          "tags": [
-            "Instrument",
-            "Orchestra",
-            "Glass",
-            "sfz"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/freepats/glass/releases/download/v1.0.0/Glass-20191227.zip",
-              "fileSize": 10610381
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/freepats/glass/releases/download/v1.0.0/glasses-of-water.zip",
-              "fileSize": 10610381
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/freepats/glass/releases/download/v1.0.0/Glass-20191227.zip",
-              "fileSize": 10610381
-            }
-          ]
-        }
-      }
-    },
-    "freepats/hang-d-minor/hang-d-minor": {
-      "slug": "freepats/hang-d-minor/hang-d-minor",
-      "latestVersion": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "name": "Hang D Minor",
-          "creator": "Freepats",
-          "license": "cc0-1.0",
-          "description": "Pitched steel percussion instrument tuned in D minor, recorded using a Zoom H1 portable recorder mounted on a tripod.",
-          "pageUrl": "https://freepats.zenvoid.org",
-          "version": "1.0.0",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/freepats/hang-d-minor/releases/download/v1.0.0/Hang-D-minor-20220330.jpg",
-          "tags": [
-            "Instrument",
-            "Orchestra",
-            "Hang",
-            "sfz"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/freepats/hang-d-minor/releases/download/v1.0.0/Hang-D-minor-20220330.zip",
-              "fileSize": 13369709
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/freepats/hang-d-minor/releases/download/v1.0.0/Hang-D-minor-20220330.zip",
-              "fileSize": 13369709
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/freepats/hang-d-minor/releases/download/v1.0.0/Hang-D-minor-20220330.zip",
-              "fileSize": 13369709
-            }
-          ]
-        }
-      }
-    },
-    "freepats/synthesizer-percussion/synthesizer-percussion": {
-      "slug": "freepats/synthesizer-percussion/synthesizer-percussion",
-      "latestVersion": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "name": "Synthesizer Percussion",
-          "creator": "Freepats",
-          "license": "cc0-1.0",
-          "description": "Drumkit sounds commonly used in vintage electronic music made with analog synthesizers.",
-          "pageUrl": "https://freepats.zenvoid.org",
-          "version": "1.0.0",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/freepats/synthesizer-percussion/releases/download/v1.0.0/SynthesizerPercussion-20220718.jpg",
-          "tags": [
-            "Instrument",
-            "Drums",
-            "Electro",
-            "sfz"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/freepats/synthesizer-percussion/releases/download/v1.0.0/SynthesizerPercussion-20220718.zip",
-              "fileSize": 1663242
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/freepats/synthesizer-percussion/releases/download/v1.0.0/SynthesizerPercussion-20220718.zip",
-              "fileSize": 1663242
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/freepats/synthesizer-percussion/releases/download/v1.0.0/SynthesizerPercussion-20220718.zip",
-              "fileSize": 1663242
-            }
-          ]
-        }
-      }
-    },
-    "freepats/upright-piano-kw/upright-piano-kw": {
-      "slug": "freepats/upright-piano-kw/upright-piano-kw",
-      "latestVersion": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "name": "Upright Piano KW",
-          "creator": "Freepats",
-          "license": "cc0-1.0",
-          "description": "Kawai upright piano, recorded in a living room using a Zoom H1 portable recorder mounted on a tripod in front of the piano.",
-          "pageUrl": "https://freepats.zenvoid.org",
-          "version": "1.0.0",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/freepats/upright-piano-kw/releases/download/v1.0.0/UprightPianoKW-20220221.jpg",
-          "tags": [
-            "Instrument",
-            "Keys",
-            "Piano",
-            "sfz"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/freepats/upright-piano-kw/releases/download/v1.0.0/UprightPianoKW-20220221.zip",
-              "fileSize": 32365885
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/freepats/upright-piano-kw/releases/download/v1.0.0/UprightPianoKW-20220221.zip",
-              "fileSize": 32365885
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/freepats/upright-piano-kw/releases/download/v1.0.0/UprightPianoKW-20220221.zip",
-              "fileSize": 32365885
-            }
-          ]
-        }
-      }
-    },
     "studiorack/argotlunar/argotlunar": {
       "slug": "studiorack/argotlunar/argotlunar",
       "latestVersion": "2.0.6",
@@ -1773,111 +1561,6 @@
               "format": "unknown",
               "downloadUrl": "https://github.com/studiorack/iem-plugin-suite/releases/download/v1.13.0/iem-plugin-suite-linux.zip",
               "fileSize": 51310651
-            }
-          ]
-        }
-      }
-    },
-    "freepats/spanish-classical-guitar/spanish-classical-guitar": {
-      "slug": "freepats/spanish-classical-guitar/spanish-classical-guitar",
-      "latestVersion": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "name": "Spanish Classical Guitar",
-          "creator": "Freepats",
-          "license": "cc0-1.0",
-          "description": "Spanish classical guitar with nylon strings, recorded with an AKG Perception 120 microphone.",
-          "pageUrl": "https://freepats.zenvoid.org",
-          "version": "1.0.0",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/freepats/spanish-classical-guitar/releases/download/v1.0.0/SpanishClassicalGuitar-20190618.jpg",
-          "tags": [
-            "Instrument",
-            "Guitar",
-            "Classical",
-            "sfz"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/freepats/spanish-classical-guitar/releases/download/v1.0.0/SpanishClassicalGuitar-20190618.zip",
-              "fileSize": 4944097
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/freepats/spanish-classical-guitar/releases/download/v1.0.0/SpanishClassicalGuitar-20190618.zip",
-              "fileSize": 4944097
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/freepats/spanish-classical-guitar/releases/download/v1.0.0/SpanishClassicalGuitar-20190618.zip",
-              "fileSize": 4944097
-            }
-          ]
-        }
-      }
-    },
-    "studiorack/andes/andes": {
-      "slug": "studiorack/andes/andes",
-      "latestVersion": "0.2.0",
-      "versions": {
-        "0.2.0": {
-          "name": "Andes",
-          "creator": "Artem Popov",
-          "license": "gpl-3.0",
-          "description": "Andes is a software synthesiser plugin in early stages of development. The core of Andes is an original oscillator which uses a pseudo-3D version of Perlin noise to produce distinctively digital sound.",
-          "pageUrl": "https://artfwo.github.io/andes/",
-          "version": "0.2.0",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/andes/releases/download/v0.2.0/andes.jpg",
-          "tags": [
-            "Instrument",
-            "Synth",
-            "Oscillator"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/andes/releases/download/v0.2.0/andes-win.zip",
-              "fileSize": 3450947
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/andes/releases/download/v0.2.0/andes-mac.zip",
-              "fileSize": 5225268
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/andes/releases/download/v0.2.0/andes-linux.zip",
-              "fileSize": 6118842
             }
           ]
         }
@@ -1987,23 +1670,23 @@
         }
       }
     },
-    "studiorack/oxe/oxe": {
-      "slug": "studiorack/oxe/oxe",
-      "latestVersion": "1.3.5",
+    "studiorack/andes/andes": {
+      "slug": "studiorack/andes/andes",
+      "latestVersion": "0.2.0",
       "versions": {
-        "1.3.5": {
-          "name": "Oxe",
-          "creator": "Oxe Software",
+        "0.2.0": {
+          "name": "Andes",
+          "creator": "Artem Popov",
           "license": "gpl-3.0",
-          "description": "8 operator frequency modulation synthesizer.",
-          "pageUrl": "https://github.com/oxesoft/oxefmsynth",
-          "version": "1.3.5",
+          "description": "Andes is a software synthesiser plugin in early stages of development. The core of Andes is an original oscillator which uses a pseudo-3D version of Perlin noise to produce distinctively digital sound.",
+          "pageUrl": "https://artfwo.github.io/andes/",
+          "version": "0.2.0",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/oxe/releases/download/v1.3.5/oxe.jpg",
+          "screenshotUrl": "https://github.com/studiorack/andes/releases/download/v0.2.0/andes.jpg",
           "tags": [
             "Instrument",
             "Synth",
-            "FM"
+            "Oscillator"
           ],
           "bundles": [
             {
@@ -2013,8 +1696,8 @@
                 "win64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/oxe/releases/download/v1.3.5/oxe-win.zip",
-              "fileSize": 232072
+              "downloadUrl": "https://github.com/studiorack/andes/releases/download/v0.2.0/andes-win.zip",
+              "fileSize": 3450947
             },
             {
               "name": "MacOS Release",
@@ -2022,8 +1705,8 @@
                 "osx"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/oxe/releases/download/v1.3.5/oxe-mac.zip",
-              "fileSize": 188225
+              "downloadUrl": "https://github.com/studiorack/andes/releases/download/v0.2.0/andes-mac.zip",
+              "fileSize": 5225268
             },
             {
               "name": "Linux Release",
@@ -2032,61 +1715,8 @@
                 "linux64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/oxe/releases/download/v1.3.5/oxe-linux.zip",
-              "fileSize": 411823
-            }
-          ]
-        }
-      }
-    },
-    "studiorack/basic-harmonica/basic-harmonica": {
-      "slug": "studiorack/basic-harmonica/basic-harmonica",
-      "latestVersion": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "name": "Basic Harmonica",
-          "creator": "michael02022",
-          "license": "cc0-1.0",
-          "description": "Basic harmonica.",
-          "pageUrl": "https://github.com/michael02022/basic-harmonica",
-          "version": "1.0.0",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/basic-harmonica/releases/download/v1.0.0/basic-harmonica.jpg",
-          "tags": [
-            "Instrument",
-            "Wind",
-            "Harmonica",
-            "sfz"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/basic-harmonica/releases/download/v1.0.0/basic-harmonica.zip",
-              "fileSize": 1404185
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/basic-harmonica/releases/download/v1.0.0/basic-harmonica.zip",
-              "fileSize": 1404185
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/basic-harmonica/releases/download/v1.0.0/basic-harmonica.zip",
-              "fileSize": 1404185
+              "downloadUrl": "https://github.com/studiorack/andes/releases/download/v0.2.0/andes-linux.zip",
+              "fileSize": 6118842
             }
           ]
         }
@@ -2196,6 +1826,58 @@
         }
       }
     },
+    "studiorack/oxe/oxe": {
+      "slug": "studiorack/oxe/oxe",
+      "latestVersion": "1.3.5",
+      "versions": {
+        "1.3.5": {
+          "name": "Oxe",
+          "creator": "Oxe Software",
+          "license": "gpl-3.0",
+          "description": "8 operator frequency modulation synthesizer.",
+          "pageUrl": "https://github.com/oxesoft/oxefmsynth",
+          "version": "1.3.5",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/studiorack/oxe/releases/download/v1.3.5/oxe.jpg",
+          "tags": [
+            "Instrument",
+            "Synth",
+            "FM"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/oxe/releases/download/v1.3.5/oxe-win.zip",
+              "fileSize": 232072
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/oxe/releases/download/v1.3.5/oxe-mac.zip",
+              "fileSize": 188225
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/oxe/releases/download/v1.3.5/oxe-linux.zip",
+              "fileSize": 411823
+            }
+          ]
+        }
+      }
+    },
     "studiorack/wolf-shaper/wolf-shaper": {
       "slug": "studiorack/wolf-shaper/wolf-shaper",
       "latestVersion": "0.1.8",
@@ -2300,24 +1982,24 @@
         }
       }
     },
-    "studiorack/jrhodes-3c/jrhodes-3c": {
-      "slug": "studiorack/jrhodes-3c/jrhodes-3c",
-      "latestVersion": "1.0.0",
+    "studiorack/ep-mk1/ep-mk1": {
+      "slug": "studiorack/ep-mk1/ep-mk1",
+      "latestVersion": "2.4.0",
       "versions": {
-        "1.0.0": {
-          "name": "jRhodes3c",
-          "creator": "Jeff Learman",
-          "license": "other",
-          "description": "1977 Rhodes Mark I Stage 73 piano",
-          "pageUrl": "https://sfzinstruments.github.io/pianos/jrhodes3c",
-          "version": "1.0.0",
+        "2.4.0": {
+          "name": "EP-MK1",
+          "creator": "Miguel Moreno",
+          "license": "bsd-3-clause",
+          "description": "Real-time physical model of an Electric Piano.",
+          "pageUrl": "https://github.com/MikeMorenoDSP/EP-MK1",
+          "version": "2.4.0",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/jrhodes-3c/releases/download/v1.0.0/jrhodes-3c.jpg",
+          "screenshotUrl": "https://github.com/studiorack/ep-mk1/releases/download/v2.4.0/ep-mk1.jpg",
           "tags": [
             "Instrument",
-            "Keys",
-            "Rhodes",
-            "sfz"
+            "Synth",
+            "Electric",
+            "Piano"
           ],
           "bundles": [
             {
@@ -2327,8 +2009,8 @@
                 "win64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/jrhodes-3c/releases/download/v1.0.0/jrhodes-3c.zip",
-              "fileSize": 17073884
+              "downloadUrl": "https://github.com/studiorack/ep-mk1/releases/download/v2.4.0/ep-mk1-win.zip",
+              "fileSize": 4704700
             },
             {
               "name": "MacOS Release",
@@ -2336,8 +2018,8 @@
                 "osx"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/jrhodes-3c/releases/download/v1.0.0/jrhodes-3c.zip",
-              "fileSize": 17073884
+              "downloadUrl": "https://github.com/studiorack/ep-mk1/releases/download/v2.4.0/ep-mk1-mac.zip",
+              "fileSize": 5262591
             },
             {
               "name": "Linux Release",
@@ -2346,8 +2028,8 @@
                 "linux64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/jrhodes-3c/releases/download/v1.0.0/jrhodes-3c.zip",
-              "fileSize": 17073884
+              "downloadUrl": "https://github.com/studiorack/ep-mk1/releases/download/v2.4.0/ep-mk1-linux.zip",
+              "fileSize": 3656955
             }
           ]
         }
@@ -2452,217 +2134,6 @@
               "format": "unknown",
               "downloadUrl": "https://github.com/studiorack/diopser/releases/download/v0.0.1/diopser-linux.zip",
               "fileSize": 1767254
-            }
-          ]
-        }
-      }
-    },
-    "studiorack/splendid-grand-piano/splendid-grand-piano": {
-      "slug": "studiorack/splendid-grand-piano/splendid-grand-piano",
-      "latestVersion": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "name": "Splendid Grand Piano",
-          "creator": "Akai",
-          "license": "other",
-          "description": "Steinway piano with 4 velocity layers",
-          "pageUrl": "https://sfzinstruments.github.io/pianos/splendid_grand_piano",
-          "version": "1.0.0",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/splendid-grand-piano/releases/download/v1.0.0/splendid-grand-piano.jpg",
-          "tags": [
-            "Instrument",
-            "Keys",
-            "Piano",
-            "sfz"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/splendid-grand-piano/releases/download/v1.0.0/splendid-grand-piano.zip",
-              "fileSize": 74736682
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/splendid-grand-piano/releases/download/v1.0.0/splendid-grand-piano.zip",
-              "fileSize": 74736682
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/splendid-grand-piano/releases/download/v1.0.0/splendid-grand-piano.zip",
-              "fileSize": 74736682
-            }
-          ]
-        }
-      }
-    },
-    "studiorack/ep-mk1/ep-mk1": {
-      "slug": "studiorack/ep-mk1/ep-mk1",
-      "latestVersion": "2.4.0",
-      "versions": {
-        "2.4.0": {
-          "name": "EP-MK1",
-          "creator": "Miguel Moreno",
-          "license": "bsd-3-clause",
-          "description": "Real-time physical model of an Electric Piano.",
-          "pageUrl": "https://github.com/MikeMorenoDSP/EP-MK1",
-          "version": "2.4.0",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/ep-mk1/releases/download/v2.4.0/ep-mk1.jpg",
-          "tags": [
-            "Instrument",
-            "Synth",
-            "Electric",
-            "Piano"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/ep-mk1/releases/download/v2.4.0/ep-mk1-win.zip",
-              "fileSize": 4704700
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/ep-mk1/releases/download/v2.4.0/ep-mk1-mac.zip",
-              "fileSize": 5262591
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/ep-mk1/releases/download/v2.4.0/ep-mk1-linux.zip",
-              "fileSize": 3656955
-            }
-          ]
-        }
-      }
-    },
-    "studiorack/avl-percussions/avl-percussions": {
-      "slug": "studiorack/avl-percussions/avl-percussions",
-      "latestVersion": "1.1.0",
-      "versions": {
-        "1.1.0": {
-          "name": "AVL Percussions",
-          "creator": "Glen MacArthur",
-          "license": "other",
-          "description": "11 percussions instruments (Cajon, Woodblock, Handclap, Fingersnap, Bongos, Maracas, Tambourine, Cowbell, Claves, Waterglass) recorded with 5 velocity layers per piece.",
-          "pageUrl": "http://www.bandshed.net/avldrumkits",
-          "version": "1.1.0",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/avl-percussions/releases/download/v1.1.0/avl-percussions.jpg",
-          "tags": [
-            "Instrument",
-            "Drums",
-            "Percussions",
-            "sfz"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/avl-percussions/releases/download/v1.1.0/avl-percussions.zip",
-              "fileSize": 1730506
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/avl-percussions/releases/download/v1.1.0/avl-percussions.zip",
-              "fileSize": 1730506
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/avl-percussions/releases/download/v1.1.0/avl-percussions.zip",
-              "fileSize": 1730506
-            }
-          ]
-        }
-      }
-    },
-    "studiorack/naked-drums/naked-drums": {
-      "slug": "studiorack/naked-drums/naked-drums",
-      "latestVersion": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "name": "Naked Drums",
-          "creator": "Wilkinson Audio",
-          "license": "cc-by-4.0",
-          "description": "Multi-mic drumkit, with 10 round-robins, up to 5 velocity layers and several mic layers (Direct, OH, Close room, Far rooms, Mid-side and Wide OH).",
-          "pageUrl": "https://wilkinsonaudio.com/products/naked-drums",
-          "version": "1.0.0",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/naked-drums/releases/download/v1.0.0/naked-drums.jpg",
-          "tags": [
-            "Instrument",
-            "Drums",
-            "sfz"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/naked-drums/releases/download/v1.0.0/naked-drums.zip",
-              "fileSize": 1283342538
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/naked-drums/releases/download/v1.0.0/naked-drums.zip",
-              "fileSize": 1283342538
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/naked-drums/releases/download/v1.0.0/naked-drums.zip",
-              "fileSize": 1283342538
             }
           ]
         }
@@ -2980,182 +2451,22 @@
         }
       }
     },
-    "studiorack/black-and-green-guitars/black-and-green-guitars": {
-      "slug": "studiorack/black-and-green-guitars/black-and-green-guitars",
+    "studiorack/mverb/mverb": {
+      "slug": "studiorack/mverb/mverb",
       "latestVersion": "1.0.0",
       "versions": {
         "1.0.0": {
-          "name": "Black and Green Guitars",
-          "creator": "DSmolken",
-          "license": "cc0-1.0",
-          "description": "Black Hofner Club and Green Gretsch Anniversary electric guitars",
-          "pageUrl": "https://github.com/sfzinstruments/karoryfer.black-and-green-guitars",
-          "version": "1.0.0",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/black-and-green-guitars/releases/download/v1.0.0/black-and-green-guitars.jpg",
-          "tags": [
-            "Instrument",
-            "Guitar",
-            "Electric",
-            "sfz"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/black-and-green-guitars/releases/download/v1.0.0/black-and-green-guitars.zip",
-              "fileSize": 292323008
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/black-and-green-guitars/releases/download/v1.0.0/black-and-green-guitars.zip",
-              "fileSize": 292323008
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/black-and-green-guitars/releases/download/v1.0.0/black-and-green-guitars.zip",
-              "fileSize": 292323008
-            }
-          ]
-        }
-      }
-    },
-    "studiorack/horse-pulse/horse-pulse": {
-      "slug": "studiorack/horse-pulse/horse-pulse",
-      "latestVersion": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "name": "Horse Pulse",
-          "creator": "DSmolken",
-          "license": "cc0-1.0",
-          "description": "Bass Tagelharpa played pizzicato",
-          "pageUrl": "https://github.com/sfzinstruments/Karoryfer.HorsePulse",
-          "version": "1.0.0",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/horse-pulse/releases/download/v1.0.0/horse-pulse.jpg",
-          "tags": [
-            "Instrument",
-            "String",
-            "Pluck",
-            "sfz"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/horse-pulse/releases/download/v1.0.0/horse-pulse.zip",
-              "fileSize": 74462529
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/horse-pulse/releases/download/v1.0.0/horse-pulse.zip",
-              "fileSize": 74462529
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/horse-pulse/releases/download/v1.0.0/horse-pulse.zip",
-              "fileSize": 74462529
-            }
-          ]
-        }
-      }
-    },
-    "studiorack/virtual-playing-orchestra/virtual-playing-orchestra": {
-      "slug": "studiorack/virtual-playing-orchestra/virtual-playing-orchestra",
-      "latestVersion": "3.2.2",
-      "versions": {
-        "3.2.2": {
-          "name": "Virtual Playing Orchestra",
-          "creator": "Paul Battersby",
+          "name": "Mverb",
+          "creator": "Martin Eastwood",
           "license": "gpl-3.0",
-          "description": "Orchestral sample library featuring section and solo instruments for woodwinds, brass, strings and percussion",
-          "pageUrl": "http://virtualplaying.com/virtual-playing-orchestra/",
-          "version": "3.2.2",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/virtual-playing-orchestra/releases/download/v3.2.2/virtual-playing-orchestra.jpg",
-          "tags": [
-            "Instrument",
-            "Orchestral",
-            "Strings",
-            "sfz"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/virtual-playing-orchestra/releases/download/v3.2.2/virtual-playing-orchestra.zip",
-              "fileSize": 618693714
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/virtual-playing-orchestra/releases/download/v3.2.2/virtual-playing-orchestra.zip",
-              "fileSize": 618693714
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/virtual-playing-orchestra/releases/download/v3.2.2/virtual-playing-orchestra.zip",
-              "fileSize": 618693714
-            }
-          ]
-        }
-      }
-    },
-    "studiorack/vst2413/vst2413": {
-      "slug": "studiorack/vst2413/vst2413",
-      "latestVersion": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "name": "VST2413",
-          "creator": "Keijiro Takahashi",
-          "license": "other",
-          "description": "FM synthesizer based on YM2413 (OPLL) emulator. YM2413 is well known as low-cost FM sound chip, and was used on Sega Master System and FM-PAC sound expansion cartridge for MSX. VST2413 can resemble that warm texture of sound and may be well suited for use in 'post 8-bit era style' chiptune music.",
-          "pageUrl": "http://www.keijiro.tokyo/vst2413/",
+          "description": "Studio quality, open-source reverb. Its release was intended to provide a practical demonstration of Dattorro’s figure-of-eight reverb structure and provide the open source community with a high quality reverb.",
+          "pageUrl": "https://github.com/martineastwood/mverb",
           "version": "1.0.0",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/vst2413/releases/download/v1.0.0/vst2413.jpg",
+          "type": "effect",
+          "screenshotUrl": "https://github.com/studiorack/mverb/releases/download/v1.0.0/mverb.jpg",
           "tags": [
-            "Instrument",
-            "Synth",
-            "Bit"
+            "Effect",
+            "Reverb"
           ],
           "bundles": [
             {
@@ -3165,8 +2476,8 @@
                 "win64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/vst2413/releases/download/v1.0.0/vst2413-win.zip",
-              "fileSize": 228506
+              "downloadUrl": "https://github.com/studiorack/mverb/releases/download/v1.0.0/mverb-win.zip",
+              "fileSize": 283901
             },
             {
               "name": "MacOS Release",
@@ -3174,8 +2485,8 @@
                 "osx"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/vst2413/releases/download/v1.0.0/vst2413-mac.zip",
-              "fileSize": 187561
+              "downloadUrl": "https://github.com/studiorack/mverb/releases/download/v1.0.0/mverb-mac.zip",
+              "fileSize": 674694
             },
             {
               "name": "Linux Release",
@@ -3184,61 +2495,8 @@
                 "linux64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/vst2413/releases/download/v1.0.0/vst2413-linux.zip",
-              "fileSize": 386422
-            }
-          ]
-        }
-      }
-    },
-    "studiorack/jsteeldrum/jsteel-drum": {
-      "slug": "studiorack/jsteeldrum/jsteel-drum",
-      "latestVersion": "2.0.0",
-      "versions": {
-        "2.0.0": {
-          "name": "jSteelDrum",
-          "creator": "Jeff Learman",
-          "license": "unlicense",
-          "description": "C Steel Drum (a.k.a. 'steel pan') hand-made in Trinidad.",
-          "pageUrl": "https://github.com/sfzinstruments/jlearman.SteelDrum",
-          "version": "2.0.0",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/jsteeldrum/releases/download/v2.0.0/jsteel-drum.jpg",
-          "tags": [
-            "Instrument",
-            "Steel",
-            "Drum",
-            "sfz"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/jsteeldrum/releases/download/v2.0.0/jsteel-drum.zip",
-              "fileSize": 38363496
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/jsteeldrum/releases/download/v2.0.0/jsteel-drum.zip",
-              "fileSize": 38363496
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/jsteeldrum/releases/download/v2.0.0/jsteel-drum.zip",
-              "fileSize": 38363496
+              "downloadUrl": "https://github.com/studiorack/mverb/releases/download/v1.0.0/mverb-linux.zip",
+              "fileSize": 188933
             }
           ]
         }
@@ -3296,110 +2554,6 @@
         }
       }
     },
-    "studiorack/mverb/mverb": {
-      "slug": "studiorack/mverb/mverb",
-      "latestVersion": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "name": "Mverb",
-          "creator": "Martin Eastwood",
-          "license": "gpl-3.0",
-          "description": "Studio quality, open-source reverb. Its release was intended to provide a practical demonstration of Dattorro’s figure-of-eight reverb structure and provide the open source community with a high quality reverb.",
-          "pageUrl": "https://github.com/martineastwood/mverb",
-          "version": "1.0.0",
-          "type": "effect",
-          "screenshotUrl": "https://github.com/studiorack/mverb/releases/download/v1.0.0/mverb.jpg",
-          "tags": [
-            "Effect",
-            "Reverb"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/mverb/releases/download/v1.0.0/mverb-win.zip",
-              "fileSize": 283901
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/mverb/releases/download/v1.0.0/mverb-mac.zip",
-              "fileSize": 674694
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/mverb/releases/download/v1.0.0/mverb-linux.zip",
-              "fileSize": 188933
-            }
-          ]
-        }
-      }
-    },
-    "studiorack/sams-sonor/sams-sonor": {
-      "slug": "studiorack/sams-sonor/sams-sonor",
-      "latestVersion": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "name": "Sam's Sonor",
-          "creator": "Sam Greene",
-          "license": "cc-by-sa-4.0",
-          "description": "Sonor Force 3001 drum kit sampled with 4 velocity levels for each part.",
-          "pageUrl": "https://github.com/sfzinstruments/SamsSonor",
-          "version": "1.0.0",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/sams-sonor/releases/download/v1.0.0/sams-sonor.jpg",
-          "tags": [
-            "Instrument",
-            "Drums",
-            "Kit",
-            "sfz"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/sams-sonor/releases/download/v1.0.0/sams-sonor.zip",
-              "fileSize": 36642874
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/sams-sonor/releases/download/v1.0.0/sams-sonor.zip",
-              "fileSize": 36642874
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/sams-sonor/releases/download/v1.0.0/sams-sonor.zip",
-              "fileSize": 36642874
-            }
-          ]
-        }
-      }
-    },
     "studiorack/obxd/obxd": {
       "slug": "studiorack/obxd/obxd",
       "latestVersion": "2.4.0",
@@ -3447,6 +2601,58 @@
               "format": "unknown",
               "downloadUrl": "https://github.com/studiorack/obxd/releases/download/v2.4.0/obxd-linux.zip",
               "fileSize": 21745339
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/vst2413/vst2413": {
+      "slug": "studiorack/vst2413/vst2413",
+      "latestVersion": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "VST2413",
+          "creator": "Keijiro Takahashi",
+          "license": "other",
+          "description": "FM synthesizer based on YM2413 (OPLL) emulator. YM2413 is well known as low-cost FM sound chip, and was used on Sega Master System and FM-PAC sound expansion cartridge for MSX. VST2413 can resemble that warm texture of sound and may be well suited for use in 'post 8-bit era style' chiptune music.",
+          "pageUrl": "http://www.keijiro.tokyo/vst2413/",
+          "version": "1.0.0",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/studiorack/vst2413/releases/download/v1.0.0/vst2413.jpg",
+          "tags": [
+            "Instrument",
+            "Synth",
+            "Bit"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/vst2413/releases/download/v1.0.0/vst2413-win.zip",
+              "fileSize": 228506
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/vst2413/releases/download/v1.0.0/vst2413-mac.zip",
+              "fileSize": 187561
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/vst2413/releases/download/v1.0.0/vst2413-linux.zip",
+              "fileSize": 386422
             }
           ]
         }
@@ -3661,59 +2867,6 @@
         }
       }
     },
-    "studiorack/war-tuba/war-tuba": {
-      "slug": "studiorack/war-tuba/war-tuba",
-      "latestVersion": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "name": "War Tuba",
-          "creator": "DSmolken",
-          "license": "cc-by-4.0",
-          "description": "Tuba played by Jakub Lewicki (aka Ignacy Woland of the band Hañba).",
-          "pageUrl": "https://github.com/sfzinstruments/karoryfer.war-tuba",
-          "version": "1.0.0",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/war-tuba/releases/download/v1.0.0/war-tuba.jpg",
-          "tags": [
-            "Instrument",
-            "Brass",
-            "Tuba",
-            "sfz"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/war-tuba/releases/download/v1.0.0/war-tuba.zip",
-              "fileSize": 35601312
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/war-tuba/releases/download/v1.0.0/war-tuba.zip",
-              "fileSize": 35601312
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/war-tuba/releases/download/v1.0.0/war-tuba.zip",
-              "fileSize": 35601312
-            }
-          ]
-        }
-      }
-    },
     "studiorack/modeq/modeq": {
       "slug": "studiorack/modeq/modeq",
       "latestVersion": "0.4.0",
@@ -3922,23 +3075,338 @@
         }
       }
     },
-    "studiorack/avl-drumkits/avl-drumkits": {
-      "slug": "studiorack/avl-drumkits/avl-drumkits",
+    "studiorack/chow-matrix/chow-matrix": {
+      "slug": "studiorack/chow-matrix/chow-matrix",
+      "latestVersion": "1.2.0",
+      "versions": {
+        "1.2.0": {
+          "name": "CHOW Matrix",
+          "creator": "Chowdhury DSP",
+          "license": "bsd-3-clause",
+          "description": "Delay effect, made up of an infinitely growable tree of delay lines, each with individual controls for feedback, panning, distortion, and more.",
+          "pageUrl": "https://github.com/Chowdhury-DSP/ChowMatrix",
+          "version": "1.2.0",
+          "type": "effect",
+          "screenshotUrl": "https://github.com/studiorack/chow-matrix/releases/download/v1.2.0/chow-matrix.jpg",
+          "tags": [
+            "Effect",
+            "Delay",
+            "Feedback"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/chow-matrix/releases/download/v1.2.0/chow-matrix-win.zip",
+              "fileSize": 4719759
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/chow-matrix/releases/download/v1.2.0/chow-matrix-mac.zip",
+              "fileSize": 10373268
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/chow-matrix/releases/download/v1.2.0/chow-matrix-linux.zip",
+              "fileSize": 16260494
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/temper/temper": {
+      "slug": "studiorack/temper/temper",
+      "latestVersion": "1.1.1",
+      "versions": {
+        "1.1.1": {
+          "name": "Temper",
+          "creator": "Nick Thompson",
+          "license": "gpl-3.0",
+          "description": "Digital distortion audio plugin which builds upon traditional waveshaping techniques, using modulated filter coefficients to produce a unique phase distortion.",
+          "pageUrl": "https://github.com/creativeintent/temper",
+          "version": "1.1.1",
+          "type": "effect",
+          "screenshotUrl": "https://github.com/studiorack/temper/releases/download/v1.1.1/temper.jpg",
+          "tags": [
+            "Effect",
+            "Distortion",
+            "Modulation"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/temper/releases/download/v1.1.1/temper-win.zip",
+              "fileSize": 6181044
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/temper/releases/download/v1.1.1/temper-mac.zip",
+              "fileSize": 6764694
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/temper/releases/download/v1.1.1/temper-linux.zip",
+              "fileSize": 9837586
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/odin/odin": {
+      "slug": "studiorack/odin/odin",
+      "latestVersion": "2.2.4",
+      "versions": {
+        "2.2.4": {
+          "name": "Odin",
+          "creator": "TheWaveWarden",
+          "license": "gpl-3.0",
+          "description": "12-voice polyphonic semi-modular synthesizer. Earth shattering basses, exquisite leads or mad FX, Odin's got them all! Use the classic sound of analog waveforms - or draw your own.",
+          "pageUrl": "https://github.com/TheWaveWarden/odin2",
+          "version": "2.2.4",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/studiorack/odin/releases/download/v2.2.4/odin.jpg",
+          "tags": [
+            "Instrument",
+            "Synth",
+            "Moog"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/odin/releases/download/v2.2.4/odin-win.zip",
+              "fileSize": 0
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/odin/releases/download/v2.2.4/odin-mac.zip",
+              "fileSize": 78842812
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/odin/releases/download/v2.2.4/odin-linux.zip",
+              "fileSize": 97250026
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/opl3-soundfont/opl3-soundfont": {
+      "slug": "studiorack/opl3-soundfont/opl3-soundfont",
+      "latestVersion": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "OPL-3 FM 128M",
+          "creator": "Zandro Reveille",
+          "license": "cc-by-sa-4.0",
+          "description": "SoundFont designed to simulate the classic MIDI sound of the Sound Blaster 16 (and other YM262 enabled hardware)",
+          "pageUrl": "https://github.com/Mindwerks/opl3-soundfont",
+          "version": "1.0.0",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/studiorack/opl3-soundfont/releases/download/v1.0.0/opl3-soundfont.jpg",
+          "tags": [
+            "Instrument",
+            "Synth",
+            "sf2"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/opl3-soundfont/releases/download/v1.0.0/opl3-soundfont.zip",
+              "fileSize": 121192707
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/opl3-soundfont/releases/download/v1.0.0/opl3-soundfont.zip",
+              "fileSize": 121192707
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/opl3-soundfont/releases/download/v1.0.0/opl3-soundfont.zip",
+              "fileSize": 121192707
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/airwindows/airwindows": {
+      "slug": "studiorack/airwindows/airwindows",
+      "latestVersion": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "Airwindows",
+          "creator": "Chris Johnson",
+          "license": "mit",
+          "description": "Huge collection of effects using simple UI controls",
+          "pageUrl": "https://www.airwindows.com",
+          "version": "1.0.0",
+          "type": "effect",
+          "screenshotUrl": "https://github.com/studiorack/airwindows/releases/download/v1.0.0/airwindows.jpg",
+          "tags": [
+            "Effect",
+            "Chorus",
+            "Distortion",
+            "EQ",
+            "Filter",
+            "Reverb"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/airwindows/releases/download/v1.0.0/airwindows-win.zip",
+              "fileSize": 22181434
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/airwindows/releases/download/v1.0.0/airwindows-mac.zip",
+              "fileSize": 14246351
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/airwindows/releases/download/v1.0.0/airwindows-linux.zip",
+              "fileSize": 8241206
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/mda/mda": {
+      "slug": "studiorack/mda/mda",
+      "latestVersion": "1.0.4",
+      "versions": {
+        "1.0.4": {
+          "name": "MDA",
+          "creator": "Paul Kellett",
+          "license": "gpl-3.0",
+          "description": "Collection of effect plug-ins, from delay to an overdrive and a vocoder.",
+          "pageUrl": "http://mda.smartelectronix.com",
+          "version": "1.0.4",
+          "type": "effect",
+          "screenshotUrl": "https://github.com/studiorack/mda/releases/download/v1.0.4/mda.jpg",
+          "tags": [
+            "Effect",
+            "Delay",
+            "Vocoder"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/mda/releases/download/v1.0.4/mda-win.zip",
+              "fileSize": 1247768
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/mda/releases/download/v1.0.4/mda-mac.zip",
+              "fileSize": 5122516
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/mda/releases/download/v1.0.4/mda-linux.zip",
+              "fileSize": 70938
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/os-251/os-251": {
+      "slug": "studiorack/os-251/os-251",
       "latestVersion": "1.1.0",
       "versions": {
         "1.1.0": {
-          "name": "AVL Drumkits",
-          "creator": "Glen MacArthur",
-          "license": "other",
-          "description": "Black Pearl and Red Zepplin drumkits recorded with 5 velocity layers per kit piece.",
-          "pageUrl": "http://www.bandshed.net/avldrumkits",
+          "name": "OS-251",
+          "creator": "Onsen Audio",
+          "license": "gpl-3.0",
+          "description": "Pure digital lo-fi synthesizer plugin",
+          "pageUrl": "https://github.com/utokusa/OS-251",
           "version": "1.1.0",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/avl-drumkits/releases/download/v1.1.0/avl-drumkits.jpg",
+          "screenshotUrl": "https://github.com/studiorack/os-251/releases/download/v1.1.0/os-251.jpg",
           "tags": [
             "Instrument",
-            "Drums",
-            "sfz"
+            "Synth",
+            "Lofi"
           ],
           "bundles": [
             {
@@ -3948,8 +3416,8 @@
                 "win64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/avl-drumkits/releases/download/v1.1.0/avl-drumkits.zip",
-              "fileSize": 16017234
+              "downloadUrl": "https://github.com/studiorack/os-251/releases/download/v1.1.0/os-251-win.zip",
+              "fileSize": 2496031
             },
             {
               "name": "MacOS Release",
@@ -3957,8 +3425,8 @@
                 "osx"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/avl-drumkits/releases/download/v1.1.0/avl-drumkits.zip",
-              "fileSize": 16017234
+              "downloadUrl": "https://github.com/studiorack/os-251/releases/download/v1.1.0/os-251-mac.zip",
+              "fileSize": 7611441
             },
             {
               "name": "Linux Release",
@@ -3967,220 +3435,8 @@
                 "linux64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/avl-drumkits/releases/download/v1.1.0/avl-drumkits.zip",
-              "fileSize": 16017234
-            }
-          ]
-        }
-      }
-    },
-    "studiorack/salamander-grand-piano/salamander-grand-piano": {
-      "slug": "studiorack/salamander-grand-piano/salamander-grand-piano",
-      "latestVersion": "3.0.0",
-      "versions": {
-        "3.0.0": {
-          "name": "Salamander Grand Piano",
-          "creator": "Alexander Holm",
-          "license": "other",
-          "description": "Yamaha C5, recorded with two AKG c414 disposed in an AB position ~12cm above the strings.",
-          "pageUrl": "https://github.com/sfzinstruments/SalamanderGrandPiano/",
-          "version": "3.0.0",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/salamander-grand-piano/releases/download/v3.0.0/salamander-grand-piano.jpg",
-          "tags": [
-            "Instrument",
-            "Piano",
-            "Yamaha",
-            "sfz"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/salamander-grand-piano/releases/download/v3.0.0/salamander-grand-piano.zip",
-              "fileSize": 748416023
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/salamander-grand-piano/releases/download/v3.0.0/salamander-grand-piano.zip",
-              "fileSize": 748416023
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/salamander-grand-piano/releases/download/v3.0.0/salamander-grand-piano.zip",
-              "fileSize": 748416023
-            }
-          ]
-        }
-      }
-    },
-    "studiorack/double-bass/double-bass": {
-      "slug": "studiorack/double-bass/double-bass",
-      "latestVersion": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "name": "Double Bass",
-          "creator": "DSmolken",
-          "license": "cc-by-4.0",
-          "description": "1958 Otto Rubner double bass played arco and pizzicato with additional miscellaneous noises.",
-          "pageUrl": "https://github.com/sfzinstruments/dsmolken.double-bass",
-          "version": "1.0.0",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/double-bass/releases/download/v1.0.0/double-bass.jpg",
-          "tags": [
-            "Instrument",
-            "String",
-            "Bass",
-            "sfz"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/double-bass/releases/download/v1.0.0/double-bass.zip",
-              "fileSize": 79014147
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/double-bass/releases/download/v1.0.0/double-bass.zip",
-              "fileSize": 79014147
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/double-bass/releases/download/v1.0.0/double-bass.zip",
-              "fileSize": 79014147
-            }
-          ]
-        }
-      }
-    },
-    "studiorack/bear-sax/bear-sax": {
-      "slug": "studiorack/bear-sax/bear-sax",
-      "latestVersion": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "name": "Bear Sax",
-          "creator": "DSmolken",
-          "license": "cc-by-4.0",
-          "description": "1926 Conn baritone saxophone including sustained notes and breath noise.",
-          "pageUrl": "https://github.com/sfzinstruments/karoryfer.bear-sax",
-          "version": "1.0.0",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/bear-sax/releases/download/v1.0.0/bear-sax.jpg",
-          "tags": [
-            "Instrument",
-            "Brass",
-            "Saxophone",
-            "sfz"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/bear-sax/releases/download/v1.0.0/bear-sax.zip",
-              "fileSize": 70617479
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/bear-sax/releases/download/v1.0.0/bear-sax.zip",
-              "fileSize": 70617479
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/bear-sax/releases/download/v1.0.0/bear-sax.zip",
-              "fileSize": 70617479
-            }
-          ]
-        }
-      }
-    },
-    "studiorack/hungarian-zither/hungarian-zither": {
-      "slug": "studiorack/hungarian-zither/hungarian-zither",
-      "latestVersion": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "name": "Hungarian Zither",
-          "creator": "DSmolken",
-          "license": "cc0-1.0",
-          "description": "Hungarian 'prime' zither. A rectangular instrument with over a dozen strings, mostly tuned to G, with two melody courses and the rest as drones.",
-          "pageUrl": "https://github.com/sfzinstruments/hungarian_zither",
-          "version": "1.0.0",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/hungarian-zither/releases/download/v1.0.0/hungarian-zither.jpg",
-          "tags": [
-            "Instrument",
-            "Strings",
-            "Classical",
-            "sfz"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/hungarian-zither/releases/download/v1.0.0/hungarian-zither.zip",
-              "fileSize": 181711154
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/hungarian-zither/releases/download/v1.0.0/hungarian-zither.zip",
-              "fileSize": 181711154
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/hungarian-zither/releases/download/v1.0.0/hungarian-zither.zip",
-              "fileSize": 181711154
+              "downloadUrl": "https://github.com/studiorack/os-251/releases/download/v1.1.0/os-251-linux.zip",
+              "fileSize": 8860818
             }
           ]
         }
@@ -4386,6 +3642,318 @@
               "format": "unknown",
               "downloadUrl": "https://github.com/studiorack/mini-series/releases/download/v1.0.0/mini-series-pan-linux.zip",
               "fileSize": 940248
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/distrho-ports/tal-chorus": {
+      "slug": "studiorack/distrho-ports/tal-chorus",
+      "latestVersion": "1.6.0",
+      "versions": {
+        "1.6.0": {
+          "name": "TAL-Chorus",
+          "creator": "TAL Software",
+          "license": "other",
+          "description": "Characteristics of the Juno-60 chorus.",
+          "pageUrl": "https://tal-software.com",
+          "version": "1.6.0",
+          "type": "effect",
+          "screenshotUrl": "https://github.com/studiorack/distrho-ports/releases/download/v1.0.0/tal-chorus.jpg",
+          "tags": [
+            "Effect",
+            "Chorus",
+            "Juno"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/distrho-ports/releases/download/v1.0.0/tal-chorus-win.zip",
+              "fileSize": 4440111
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/distrho-ports/releases/download/v1.0.0/tal-chorus-mac.zip",
+              "fileSize": 5132019
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/distrho-ports/releases/download/v1.0.0/tal-chorus-linux.zip",
+              "fileSize": 2302019
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/distrho-ports/tal-filter": {
+      "slug": "studiorack/distrho-ports/tal-filter",
+      "latestVersion": "3.0.1",
+      "versions": {
+        "3.0.1": {
+          "name": "TAL-Filter",
+          "creator": "TAL Software",
+          "license": "other",
+          "description": "Host synced filter module with different filter types, panorama and volume modulation possibilities",
+          "pageUrl": "https://tal-software.com",
+          "version": "3.0.1",
+          "type": "effect",
+          "screenshotUrl": "https://github.com/studiorack/distrho-ports/releases/download/v1.0.0/tal-filter.jpg",
+          "tags": [
+            "Effect",
+            "Filter",
+            "Modulation"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/distrho-ports/releases/download/v1.0.0/tal-filter-win.zip",
+              "fileSize": 7239861
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/distrho-ports/releases/download/v1.0.0/tal-filter-mac.zip",
+              "fileSize": 10836170
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/distrho-ports/releases/download/v1.0.0/tal-filter-linux.zip",
+              "fileSize": 4199145
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/distrho-ports/tal-noisemaker": {
+      "slug": "studiorack/distrho-ports/tal-noisemaker",
+      "latestVersion": "5.0.4",
+      "versions": {
+        "5.0.4": {
+          "name": "TAL-Noisemaker",
+          "creator": "TAL Software",
+          "license": "other",
+          "description": "Virtual analog synthesizer with a great sound and low CPU usage.",
+          "pageUrl": "https://tal-software.com",
+          "version": "5.0.4",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/studiorack/distrho-ports/releases/download/v1.0.0/tal-noisemaker.jpg",
+          "tags": [
+            "Instrument",
+            "Synth",
+            "Analog"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/distrho-ports/releases/download/v1.0.0/tal-noisemaker-win.zip",
+              "fileSize": 7764121
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/distrho-ports/releases/download/v1.0.0/tal-noisemaker-mac.zip",
+              "fileSize": 11980734
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/distrho-ports/releases/download/v1.0.0/tal-noisemaker-linux.zip",
+              "fileSize": 4572081
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/distrho-ports/tal-reverb": {
+      "slug": "studiorack/distrho-ports/tal-reverb",
+      "latestVersion": "2.4.0",
+      "versions": {
+        "2.4.0": {
+          "name": "TAL-Reverb",
+          "creator": "TAL Software",
+          "license": "other",
+          "description": "High quality plate reverb with a vintage 80's character",
+          "pageUrl": "https://tal-software.com",
+          "version": "2.4.0",
+          "type": "effect",
+          "screenshotUrl": "https://github.com/studiorack/distrho-ports/releases/download/v1.0.0/tal-reverb.jpg",
+          "tags": [
+            "Effect",
+            "Reverb",
+            "Plate"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/distrho-ports/releases/download/v1.0.0/tal-reverb-win.zip",
+              "fileSize": 7575145
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/distrho-ports/releases/download/v1.0.0/tal-reverb-mac.zip",
+              "fileSize": 11515261
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/distrho-ports/releases/download/v1.0.0/tal-reverb-linux.zip",
+              "fileSize": 4409884
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/distrho-ports/tal-vocoder": {
+      "slug": "studiorack/distrho-ports/tal-vocoder",
+      "latestVersion": "2.2.0",
+      "versions": {
+        "2.2.0": {
+          "name": "TAL-Vocoder",
+          "creator": "TAL Software",
+          "license": "other",
+          "description": "Vintage vocoder emulation with 11 bands that emulates the sound of vocoders from the early 80s",
+          "pageUrl": "https://tal-software.com",
+          "version": "2.2.0",
+          "type": "effect",
+          "screenshotUrl": "https://github.com/studiorack/distrho-ports/releases/download/v1.0.0/tal-vocoder.jpg",
+          "tags": [
+            "Effect",
+            "Vocoder",
+            "Analog"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/distrho-ports/releases/download/v1.0.0/tal-vocoder-win.zip",
+              "fileSize": 5351774
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/distrho-ports/releases/download/v1.0.0/tal-vocoder-mac.zip",
+              "fileSize": 7076283
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/distrho-ports/releases/download/v1.0.0/tal-vocoder-linux.zip",
+              "fileSize": 2906953
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/surge/surge": {
+      "slug": "studiorack/surge/surge",
+      "latestVersion": "1.9.0",
+      "versions": {
+        "1.9.0": {
+          "name": "Surge XT",
+          "creator": "Surge Synth Team",
+          "license": "gpl-3.0",
+          "description": "Hybrid synthesizer featuring many synthesis techniques, a great selection of filters, a flexible modulation engine, a smorgasbord of effects, and modern features like MPE and microtuning.",
+          "pageUrl": "https://surge-synthesizer.github.io",
+          "version": "1.9.0",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/studiorack/surge/releases/download/v1.9.0/surge.jpg",
+          "tags": [
+            "Instrument",
+            "Synth",
+            "Modulation"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/surge/releases/download/v1.9.0/surge-win.zip",
+              "fileSize": 16772957
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/surge/releases/download/v1.9.0/surge-mac.zip",
+              "fileSize": 61103675
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/surge/releases/download/v1.9.0/surge-linux.zip",
+              "fileSize": 34112118
             }
           ]
         }
