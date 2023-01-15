@@ -7269,6 +7269,373 @@
         }
       }
     },
+    "studiorack/chow-matrix/chow-matrix": {
+      "slug": "studiorack/chow-matrix/chow-matrix",
+      "latestVersion": "1.2.0",
+      "versions": {
+        "1.2.0": {
+          "name": "CHOW Matrix",
+          "creator": "Chowdhury DSP",
+          "license": "bsd-3-clause",
+          "description": "Delay effect, made up of an infinitely growable tree of delay lines, each with individual controls for feedback, panning, distortion, and more.",
+          "pageUrl": "https://github.com/Chowdhury-DSP/ChowMatrix",
+          "version": "1.2.0",
+          "type": "effect",
+          "screenshotUrl": "https://github.com/studiorack/chow-matrix/releases/download/v1.2.0/chow-matrix.jpg",
+          "tags": [
+            "Effect",
+            "Delay",
+            "Feedback"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/chow-matrix/releases/download/v1.2.0/chow-matrix-win.zip",
+              "fileSize": 4719759
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/chow-matrix/releases/download/v1.2.0/chow-matrix-mac.zip",
+              "fileSize": 10373268
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/chow-matrix/releases/download/v1.2.0/chow-matrix-linux.zip",
+              "fileSize": 16260494
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/temper/temper": {
+      "slug": "studiorack/temper/temper",
+      "latestVersion": "1.1.1",
+      "versions": {
+        "1.1.1": {
+          "name": "Temper",
+          "creator": "Nick Thompson",
+          "license": "gpl-3.0",
+          "description": "Digital distortion audio plugin which builds upon traditional waveshaping techniques, using modulated filter coefficients to produce a unique phase distortion.",
+          "pageUrl": "https://github.com/creativeintent/temper",
+          "version": "1.1.1",
+          "type": "effect",
+          "screenshotUrl": "https://github.com/studiorack/temper/releases/download/v1.1.1/temper.jpg",
+          "tags": [
+            "Effect",
+            "Distortion",
+            "Modulation"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/temper/releases/download/v1.1.1/temper-win.zip",
+              "fileSize": 6181044
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/temper/releases/download/v1.1.1/temper-mac.zip",
+              "fileSize": 6764694
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/temper/releases/download/v1.1.1/temper-linux.zip",
+              "fileSize": 9837586
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/odin/odin": {
+      "slug": "studiorack/odin/odin",
+      "latestVersion": "2.2.4",
+      "versions": {
+        "2.2.4": {
+          "name": "Odin",
+          "creator": "TheWaveWarden",
+          "license": "gpl-3.0",
+          "description": "12-voice polyphonic semi-modular synthesizer. Earth shattering basses, exquisite leads or mad FX, Odin's got them all! Use the classic sound of analog waveforms - or draw your own.",
+          "pageUrl": "https://github.com/TheWaveWarden/odin2",
+          "version": "2.2.4",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/studiorack/odin/releases/download/v2.2.4/odin.jpg",
+          "tags": [
+            "Instrument",
+            "Synth",
+            "Moog"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/odin/releases/download/v2.2.4/odin-win.zip",
+              "fileSize": 0
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/odin/releases/download/v2.2.4/odin-mac.zip",
+              "fileSize": 78842812
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/odin/releases/download/v2.2.4/odin-linux.zip",
+              "fileSize": 97250026
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/opl3-soundfont/opl3-soundfont": {
+      "slug": "studiorack/opl3-soundfont/opl3-soundfont",
+      "latestVersion": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "OPL-3 FM 128M",
+          "creator": "Zandro Reveille",
+          "license": "cc-by-sa-4.0",
+          "description": "SoundFont designed to simulate the classic MIDI sound of the Sound Blaster 16 (and other YM262 enabled hardware)",
+          "pageUrl": "https://github.com/Mindwerks/opl3-soundfont",
+          "version": "1.0.0",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/studiorack/opl3-soundfont/releases/download/v1.0.0/opl3-soundfont.jpg",
+          "tags": [
+            "Instrument",
+            "Synth",
+            "sf2"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/opl3-soundfont/releases/download/v1.0.0/opl3-soundfont.zip",
+              "fileSize": 121192707
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/opl3-soundfont/releases/download/v1.0.0/opl3-soundfont.zip",
+              "fileSize": 121192707
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/opl3-soundfont/releases/download/v1.0.0/opl3-soundfont.zip",
+              "fileSize": 121192707
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/airwindows/airwindows": {
+      "slug": "studiorack/airwindows/airwindows",
+      "latestVersion": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "Airwindows",
+          "creator": "Chris Johnson",
+          "license": "mit",
+          "description": "Huge collection of effects using simple UI controls",
+          "pageUrl": "https://www.airwindows.com",
+          "version": "1.0.0",
+          "type": "effect",
+          "screenshotUrl": "https://github.com/studiorack/airwindows/releases/download/v1.0.0/airwindows.jpg",
+          "tags": [
+            "Effect",
+            "Chorus",
+            "Distortion",
+            "EQ",
+            "Filter",
+            "Reverb"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/airwindows/releases/download/v1.0.0/airwindows-win.zip",
+              "fileSize": 22181434
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/airwindows/releases/download/v1.0.0/airwindows-mac.zip",
+              "fileSize": 14246351
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/airwindows/releases/download/v1.0.0/airwindows-linux.zip",
+              "fileSize": 8241206
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/mda/mda": {
+      "slug": "studiorack/mda/mda",
+      "latestVersion": "1.0.4",
+      "versions": {
+        "1.0.4": {
+          "name": "MDA",
+          "creator": "Paul Kellett",
+          "license": "gpl-3.0",
+          "description": "Collection of effect plug-ins, from delay to an overdrive and a vocoder.",
+          "pageUrl": "http://mda.smartelectronix.com",
+          "version": "1.0.4",
+          "type": "effect",
+          "screenshotUrl": "https://github.com/studiorack/mda/releases/download/v1.0.4/mda.jpg",
+          "tags": [
+            "Effect",
+            "Delay",
+            "Vocoder"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/mda/releases/download/v1.0.4/mda-win.zip",
+              "fileSize": 1247768
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/mda/releases/download/v1.0.4/mda-mac.zip",
+              "fileSize": 5122516
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/mda/releases/download/v1.0.4/mda-linux.zip",
+              "fileSize": 70938
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/os-251/os-251": {
+      "slug": "studiorack/os-251/os-251",
+      "latestVersion": "1.1.0",
+      "versions": {
+        "1.1.0": {
+          "name": "OS-251",
+          "creator": "Onsen Audio",
+          "license": "gpl-3.0",
+          "description": "Pure digital lo-fi synthesizer plugin",
+          "pageUrl": "https://github.com/utokusa/OS-251",
+          "version": "1.1.0",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/studiorack/os-251/releases/download/v1.1.0/os-251.jpg",
+          "tags": [
+            "Instrument",
+            "Synth",
+            "Lofi"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/os-251/releases/download/v1.1.0/os-251-win.zip",
+              "fileSize": 2496031
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/os-251/releases/download/v1.1.0/os-251-mac.zip",
+              "fileSize": 7611441
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/os-251/releases/download/v1.1.0/os-251-linux.zip",
+              "fileSize": 8860818
+            }
+          ]
+        }
+      }
+    },
     "studiorack/sfizz/sfizz": {
       "slug": "studiorack/sfizz/sfizz",
       "latestVersion": "1.1.1",
@@ -7781,373 +8148,6 @@
               "format": "unknown",
               "downloadUrl": "https://github.com/studiorack/surge/releases/download/v1.9.0/surge-linux.zip",
               "fileSize": 34112118
-            }
-          ]
-        }
-      }
-    },
-    "studiorack/chow-matrix/chow-matrix": {
-      "slug": "studiorack/chow-matrix/chow-matrix",
-      "latestVersion": "1.2.0",
-      "versions": {
-        "1.2.0": {
-          "name": "CHOW Matrix",
-          "creator": "Chowdhury DSP",
-          "license": "bsd-3-clause",
-          "description": "Delay effect, made up of an infinitely growable tree of delay lines, each with individual controls for feedback, panning, distortion, and more.",
-          "pageUrl": "https://github.com/Chowdhury-DSP/ChowMatrix",
-          "version": "1.2.0",
-          "type": "effect",
-          "screenshotUrl": "https://github.com/studiorack/chow-matrix/releases/download/v1.2.0/chow-matrix.jpg",
-          "tags": [
-            "Effect",
-            "Delay",
-            "Feedback"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/chow-matrix/releases/download/v1.2.0/chow-matrix-win.zip",
-              "fileSize": 4719759
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/chow-matrix/releases/download/v1.2.0/chow-matrix-mac.zip",
-              "fileSize": 10373268
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/chow-matrix/releases/download/v1.2.0/chow-matrix-linux.zip",
-              "fileSize": 16260494
-            }
-          ]
-        }
-      }
-    },
-    "studiorack/temper/temper": {
-      "slug": "studiorack/temper/temper",
-      "latestVersion": "1.1.1",
-      "versions": {
-        "1.1.1": {
-          "name": "Temper",
-          "creator": "Nick Thompson",
-          "license": "gpl-3.0",
-          "description": "Digital distortion audio plugin which builds upon traditional waveshaping techniques, using modulated filter coefficients to produce a unique phase distortion.",
-          "pageUrl": "https://github.com/creativeintent/temper",
-          "version": "1.1.1",
-          "type": "effect",
-          "screenshotUrl": "https://github.com/studiorack/temper/releases/download/v1.1.1/temper.jpg",
-          "tags": [
-            "Effect",
-            "Distortion",
-            "Modulation"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/temper/releases/download/v1.1.1/temper-win.zip",
-              "fileSize": 6181044
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/temper/releases/download/v1.1.1/temper-mac.zip",
-              "fileSize": 6764694
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/temper/releases/download/v1.1.1/temper-linux.zip",
-              "fileSize": 9837586
-            }
-          ]
-        }
-      }
-    },
-    "studiorack/odin/odin": {
-      "slug": "studiorack/odin/odin",
-      "latestVersion": "2.2.4",
-      "versions": {
-        "2.2.4": {
-          "name": "Odin",
-          "creator": "TheWaveWarden",
-          "license": "gpl-3.0",
-          "description": "12-voice polyphonic semi-modular synthesizer. Earth shattering basses, exquisite leads or mad FX, Odin's got them all! Use the classic sound of analog waveforms - or draw your own.",
-          "pageUrl": "https://github.com/TheWaveWarden/odin2",
-          "version": "2.2.4",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/odin/releases/download/v2.2.4/odin.jpg",
-          "tags": [
-            "Instrument",
-            "Synth",
-            "Moog"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/odin/releases/download/v2.2.4/odin-win.zip",
-              "fileSize": 0
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/odin/releases/download/v2.2.4/odin-mac.zip",
-              "fileSize": 78842812
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/odin/releases/download/v2.2.4/odin-linux.zip",
-              "fileSize": 97250026
-            }
-          ]
-        }
-      }
-    },
-    "studiorack/opl3-soundfont/opl3-soundfont": {
-      "slug": "studiorack/opl3-soundfont/opl3-soundfont",
-      "latestVersion": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "name": "OPL-3 FM 128M",
-          "creator": "Zandro Reveille",
-          "license": "cc-by-sa-4.0",
-          "description": "SoundFont designed to simulate the classic MIDI sound of the Sound Blaster 16 (and other YM262 enabled hardware)",
-          "pageUrl": "https://github.com/Mindwerks/opl3-soundfont",
-          "version": "1.0.0",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/opl3-soundfont/releases/download/v1.0.0/opl3-soundfont.jpg",
-          "tags": [
-            "Instrument",
-            "Synth",
-            "sf2"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/opl3-soundfont/releases/download/v1.0.0/opl3-soundfont.zip",
-              "fileSize": 121192707
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/opl3-soundfont/releases/download/v1.0.0/opl3-soundfont.zip",
-              "fileSize": 121192707
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/opl3-soundfont/releases/download/v1.0.0/opl3-soundfont.zip",
-              "fileSize": 121192707
-            }
-          ]
-        }
-      }
-    },
-    "studiorack/airwindows/airwindows": {
-      "slug": "studiorack/airwindows/airwindows",
-      "latestVersion": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "name": "Airwindows",
-          "creator": "Chris Johnson",
-          "license": "mit",
-          "description": "Huge collection of effects using simple UI controls",
-          "pageUrl": "https://www.airwindows.com",
-          "version": "1.0.0",
-          "type": "effect",
-          "screenshotUrl": "https://github.com/studiorack/airwindows/releases/download/v1.0.0/airwindows.jpg",
-          "tags": [
-            "Effect",
-            "Chorus",
-            "Distortion",
-            "EQ",
-            "Filter",
-            "Reverb"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/airwindows/releases/download/v1.0.0/airwindows-win.zip",
-              "fileSize": 22181434
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/airwindows/releases/download/v1.0.0/airwindows-mac.zip",
-              "fileSize": 14246351
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/airwindows/releases/download/v1.0.0/airwindows-linux.zip",
-              "fileSize": 8241206
-            }
-          ]
-        }
-      }
-    },
-    "studiorack/mda/mda": {
-      "slug": "studiorack/mda/mda",
-      "latestVersion": "1.0.4",
-      "versions": {
-        "1.0.4": {
-          "name": "MDA",
-          "creator": "Paul Kellett",
-          "license": "gpl-3.0",
-          "description": "Collection of effect plug-ins, from delay to an overdrive and a vocoder.",
-          "pageUrl": "http://mda.smartelectronix.com",
-          "version": "1.0.4",
-          "type": "effect",
-          "screenshotUrl": "https://github.com/studiorack/mda/releases/download/v1.0.4/mda.jpg",
-          "tags": [
-            "Effect",
-            "Delay",
-            "Vocoder"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/mda/releases/download/v1.0.4/mda-win.zip",
-              "fileSize": 1247768
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/mda/releases/download/v1.0.4/mda-mac.zip",
-              "fileSize": 5122516
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/mda/releases/download/v1.0.4/mda-linux.zip",
-              "fileSize": 70938
-            }
-          ]
-        }
-      }
-    },
-    "studiorack/os-251/os-251": {
-      "slug": "studiorack/os-251/os-251",
-      "latestVersion": "1.1.0",
-      "versions": {
-        "1.1.0": {
-          "name": "OS-251",
-          "creator": "Onsen Audio",
-          "license": "gpl-3.0",
-          "description": "Pure digital lo-fi synthesizer plugin",
-          "pageUrl": "https://github.com/utokusa/OS-251",
-          "version": "1.1.0",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/os-251/releases/download/v1.1.0/os-251.jpg",
-          "tags": [
-            "Instrument",
-            "Synth",
-            "Lofi"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/os-251/releases/download/v1.1.0/os-251-win.zip",
-              "fileSize": 2496031
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/os-251/releases/download/v1.1.0/os-251-mac.zip",
-              "fileSize": 7611441
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/os-251/releases/download/v1.1.0/os-251-linux.zip",
-              "fileSize": 8860818
             }
           ]
         }
