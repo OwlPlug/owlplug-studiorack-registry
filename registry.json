@@ -5760,6 +5760,58 @@
         }
       }
     },
+    "studiorack/andes/andes": {
+      "slug": "studiorack/andes/andes",
+      "latestVersion": "0.2.0",
+      "versions": {
+        "0.2.0": {
+          "name": "Andes",
+          "creator": "Artem Popov",
+          "license": "gpl-3.0",
+          "description": "Andes is a software synthesiser plugin in early stages of development. The core of Andes is an original oscillator which uses a pseudo-3D version of Perlin noise to produce distinctively digital sound.",
+          "pageUrl": "https://artfwo.github.io/andes/",
+          "version": "0.2.0",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/studiorack/andes/releases/download/v0.2.0/andes.jpg",
+          "tags": [
+            "Instrument",
+            "Synth",
+            "Oscillator"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/andes/releases/download/v0.2.0/andes-win.zip",
+              "fileSize": 3450947
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/andes/releases/download/v0.2.0/andes-mac.zip",
+              "fileSize": 5225268
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/andes/releases/download/v0.2.0/andes-linux.zip",
+              "fileSize": 6118842
+            }
+          ]
+        }
+      }
+    },
     "studiorack/adlplug/adlplug": {
       "slug": "studiorack/adlplug/adlplug",
       "latestVersion": "1.0.2",
@@ -5859,58 +5911,6 @@
               "format": "unknown",
               "downloadUrl": "https://github.com/studiorack/adlplug/releases/download/v1.0.2/opnplug-linux.zip",
               "fileSize": 11236640
-            }
-          ]
-        }
-      }
-    },
-    "studiorack/andes/andes": {
-      "slug": "studiorack/andes/andes",
-      "latestVersion": "0.2.0",
-      "versions": {
-        "0.2.0": {
-          "name": "Andes",
-          "creator": "Artem Popov",
-          "license": "gpl-3.0",
-          "description": "Andes is a software synthesiser plugin in early stages of development. The core of Andes is an original oscillator which uses a pseudo-3D version of Perlin noise to produce distinctively digital sound.",
-          "pageUrl": "https://artfwo.github.io/andes/",
-          "version": "0.2.0",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/andes/releases/download/v0.2.0/andes.jpg",
-          "tags": [
-            "Instrument",
-            "Synth",
-            "Oscillator"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/andes/releases/download/v0.2.0/andes-win.zip",
-              "fileSize": 3450947
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/andes/releases/download/v0.2.0/andes-mac.zip",
-              "fileSize": 5225268
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/andes/releases/download/v0.2.0/andes-linux.zip",
-              "fileSize": 6118842
             }
           ]
         }
@@ -6333,110 +6333,6 @@
         }
       }
     },
-    "studiorack/dexed/dexed": {
-      "slug": "studiorack/dexed/dexed",
-      "latestVersion": "0.9.6",
-      "versions": {
-        "0.9.6": {
-          "name": "Dexed",
-          "creator": "Pascal Gauthier",
-          "license": "gpl-3.0",
-          "description": "Synthesizer closely modeled on the Yamaha DX7",
-          "pageUrl": "http://asb2m10.github.io/dexed/",
-          "version": "0.9.6",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/dexed/releases/download/v0.9.6/dexed.jpg",
-          "tags": [
-            "Instrument",
-            "Synth",
-            "FM"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/dexed/releases/download/v0.9.6/dexed-win.zip",
-              "fileSize": 2588488
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/dexed/releases/download/v0.9.6/dexed-mac.zip",
-              "fileSize": 9146576
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/dexed/releases/download/v0.9.6/dexed-linux.zip",
-              "fileSize": 6296573
-            }
-          ]
-        }
-      }
-    },
-    "studiorack/wolf-spectrum/wolf-spectrum": {
-      "slug": "studiorack/wolf-spectrum/wolf-spectrum",
-      "latestVersion": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "name": "Wolf Spectrum",
-          "creator": "Wolf Plugins",
-          "license": "gpl-3.0",
-          "description": "Spectrogram plugin which supports both log and linear frequency scaling",
-          "pageUrl": "https://github.com/wolf-plugins/wolf-spectrum",
-          "version": "1.0.0",
-          "type": "effect",
-          "screenshotUrl": "https://github.com/studiorack/wolf-spectrum/releases/download/v1.0.0/wolf-spectrum.jpg",
-          "tags": [
-            "Effect",
-            "Spectrogram",
-            "Frequency"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/wolf-spectrum/releases/download/v1.0.0/wolf-spectrum-win.zip",
-              "fileSize": 853963
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/wolf-spectrum/releases/download/v1.0.0/wolf-spectrum-mac.zip",
-              "fileSize": 493633
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/wolf-spectrum/releases/download/v1.0.0/wolf-spectrum-linux.zip",
-              "fileSize": 994607
-            }
-          ]
-        }
-      }
-    },
     "studiorack/helm/helm": {
       "slug": "studiorack/helm/helm",
       "latestVersion": "0.9.0",
@@ -6645,22 +6541,23 @@
         }
       }
     },
-    "studiorack/mverb/mverb": {
-      "slug": "studiorack/mverb/mverb",
-      "latestVersion": "1.0.0",
+    "studiorack/dexed/dexed": {
+      "slug": "studiorack/dexed/dexed",
+      "latestVersion": "0.9.6",
       "versions": {
-        "1.0.0": {
-          "name": "Mverb",
-          "creator": "Martin Eastwood",
+        "0.9.6": {
+          "name": "Dexed",
+          "creator": "Pascal Gauthier",
           "license": "gpl-3.0",
-          "description": "Studio quality, open-source reverb. Its release was intended to provide a practical demonstration of Dattorro’s figure-of-eight reverb structure and provide the open source community with a high quality reverb.",
-          "pageUrl": "https://github.com/martineastwood/mverb",
-          "version": "1.0.0",
-          "type": "effect",
-          "screenshotUrl": "https://github.com/studiorack/mverb/releases/download/v1.0.0/mverb.jpg",
+          "description": "Synthesizer closely modeled on the Yamaha DX7",
+          "pageUrl": "http://asb2m10.github.io/dexed/",
+          "version": "0.9.6",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/studiorack/dexed/releases/download/v0.9.6/dexed.jpg",
           "tags": [
-            "Effect",
-            "Reverb"
+            "Instrument",
+            "Synth",
+            "FM"
           ],
           "bundles": [
             {
@@ -6670,8 +6567,8 @@
                 "win64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/mverb/releases/download/v1.0.0/mverb-win.zip",
-              "fileSize": 283901
+              "downloadUrl": "https://github.com/studiorack/dexed/releases/download/v0.9.6/dexed-win.zip",
+              "fileSize": 2588488
             },
             {
               "name": "MacOS Release",
@@ -6679,8 +6576,8 @@
                 "osx"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/mverb/releases/download/v1.0.0/mverb-mac.zip",
-              "fileSize": 674694
+              "downloadUrl": "https://github.com/studiorack/dexed/releases/download/v0.9.6/dexed-mac.zip",
+              "fileSize": 9146576
             },
             {
               "name": "Linux Release",
@@ -6689,8 +6586,112 @@
                 "linux64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/mverb/releases/download/v1.0.0/mverb-linux.zip",
-              "fileSize": 188933
+              "downloadUrl": "https://github.com/studiorack/dexed/releases/download/v0.9.6/dexed-linux.zip",
+              "fileSize": 6296573
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/wolf-spectrum/wolf-spectrum": {
+      "slug": "studiorack/wolf-spectrum/wolf-spectrum",
+      "latestVersion": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "Wolf Spectrum",
+          "creator": "Wolf Plugins",
+          "license": "gpl-3.0",
+          "description": "Spectrogram plugin which supports both log and linear frequency scaling",
+          "pageUrl": "https://github.com/wolf-plugins/wolf-spectrum",
+          "version": "1.0.0",
+          "type": "effect",
+          "screenshotUrl": "https://github.com/studiorack/wolf-spectrum/releases/download/v1.0.0/wolf-spectrum.jpg",
+          "tags": [
+            "Effect",
+            "Spectrogram",
+            "Frequency"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/wolf-spectrum/releases/download/v1.0.0/wolf-spectrum-win.zip",
+              "fileSize": 853963
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/wolf-spectrum/releases/download/v1.0.0/wolf-spectrum-mac.zip",
+              "fileSize": 493633
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/wolf-spectrum/releases/download/v1.0.0/wolf-spectrum-linux.zip",
+              "fileSize": 994607
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/vst2413/vst2413": {
+      "slug": "studiorack/vst2413/vst2413",
+      "latestVersion": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "VST2413",
+          "creator": "Keijiro Takahashi",
+          "license": "other",
+          "description": "FM synthesizer based on YM2413 (OPLL) emulator. YM2413 is well known as low-cost FM sound chip, and was used on Sega Master System and FM-PAC sound expansion cartridge for MSX. VST2413 can resemble that warm texture of sound and may be well suited for use in 'post 8-bit era style' chiptune music.",
+          "pageUrl": "http://www.keijiro.tokyo/vst2413/",
+          "version": "1.0.0",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/studiorack/vst2413/releases/download/v1.0.0/vst2413.jpg",
+          "tags": [
+            "Instrument",
+            "Synth",
+            "Bit"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/vst2413/releases/download/v1.0.0/vst2413-win.zip",
+              "fileSize": 228506
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/vst2413/releases/download/v1.0.0/vst2413-mac.zip",
+              "fileSize": 187561
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/vst2413/releases/download/v1.0.0/vst2413-linux.zip",
+              "fileSize": 386422
             }
           ]
         }
@@ -6743,6 +6744,57 @@
               "format": "unknown",
               "downloadUrl": "https://github.com/studiorack/smartguitaramp/releases/download/v1.2.0/smartguitaramp-linux.zip",
               "fileSize": 5155080
+            }
+          ]
+        }
+      }
+    },
+    "studiorack/mverb/mverb": {
+      "slug": "studiorack/mverb/mverb",
+      "latestVersion": "1.0.0",
+      "versions": {
+        "1.0.0": {
+          "name": "Mverb",
+          "creator": "Martin Eastwood",
+          "license": "gpl-3.0",
+          "description": "Studio quality, open-source reverb. Its release was intended to provide a practical demonstration of Dattorro’s figure-of-eight reverb structure and provide the open source community with a high quality reverb.",
+          "pageUrl": "https://github.com/martineastwood/mverb",
+          "version": "1.0.0",
+          "type": "effect",
+          "screenshotUrl": "https://github.com/studiorack/mverb/releases/download/v1.0.0/mverb.jpg",
+          "tags": [
+            "Effect",
+            "Reverb"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/mverb/releases/download/v1.0.0/mverb-win.zip",
+              "fileSize": 283901
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/mverb/releases/download/v1.0.0/mverb-mac.zip",
+              "fileSize": 674694
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/studiorack/mverb/releases/download/v1.0.0/mverb-linux.zip",
+              "fileSize": 188933
             }
           ]
         }
@@ -7004,58 +7056,6 @@
               "format": "unknown",
               "downloadUrl": "https://github.com/studiorack/monique-monosynth/releases/download/v1.2.0/monique-linux.zip",
               "fileSize": 7258419
-            }
-          ]
-        }
-      }
-    },
-    "studiorack/vst2413/vst2413": {
-      "slug": "studiorack/vst2413/vst2413",
-      "latestVersion": "1.0.0",
-      "versions": {
-        "1.0.0": {
-          "name": "VST2413",
-          "creator": "Keijiro Takahashi",
-          "license": "other",
-          "description": "FM synthesizer based on YM2413 (OPLL) emulator. YM2413 is well known as low-cost FM sound chip, and was used on Sega Master System and FM-PAC sound expansion cartridge for MSX. VST2413 can resemble that warm texture of sound and may be well suited for use in 'post 8-bit era style' chiptune music.",
-          "pageUrl": "http://www.keijiro.tokyo/vst2413/",
-          "version": "1.0.0",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/studiorack/vst2413/releases/download/v1.0.0/vst2413.jpg",
-          "tags": [
-            "Instrument",
-            "Synth",
-            "Bit"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/vst2413/releases/download/v1.0.0/vst2413-win.zip",
-              "fileSize": 228506
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/vst2413/releases/download/v1.0.0/vst2413-mac.zip",
-              "fileSize": 187561
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "format": "unknown",
-              "downloadUrl": "https://github.com/studiorack/vst2413/releases/download/v1.0.0/vst2413-linux.zip",
-              "fileSize": 386422
             }
           ]
         }
