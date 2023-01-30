@@ -29,6 +29,8 @@ async function main() {
   let response = await axios.get(config.studiorack.registryUrl + "index.json")
   let packages = convertToPackages(response.data)
 
+  packages.sort((a, b) => a.slug.localeCompare(b.slug))
+
   for (let pack of packages) {
     registry.packages[pack.slug] = pack;
   }
