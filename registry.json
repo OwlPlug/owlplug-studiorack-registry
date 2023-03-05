@@ -5,17 +5,17 @@
   "packages": {
     "ryukau/vstplugins/basic-limiter": {
       "slug": "ryukau/vstplugins/basic-limiter",
-      "latestVersion": "0.1.15",
+      "latestVersion": "0.1.16",
       "versions": {
-        "0.1.15": {
+        "0.1.16": {
           "name": "BasicLimiter",
           "creator": "Takamitsu Endo",
           "license": "gpl-3.0",
           "description": "BasicLimiter is a basic single band limiter. The sound is nothing new, but the design of true peak mode is a bit luxurious.",
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
-          "version": "0.1.15",
+          "version": "0.1.16",
           "type": "effect",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/BasicLimiter.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/BasicLimiter.png",
           "tags": [
             "Fx",
             "Dynamics"
@@ -28,7 +28,52 @@
                 "win64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/BasicLimiter_0.1.15.zip",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/BasicLimiter_0.1.16.zip",
+              "fileSize": 2542098
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/BasicLimiter_0.1.16.zip",
+              "fileSize": 2542098
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/BasicLimiter_0.1.16.zip",
+              "fileSize": 2542098
+            }
+          ]
+        },
+        "0.1.15": {
+          "name": "BasicLimiter",
+          "creator": "Takamitsu Endo",
+          "license": "gpl-3.0",
+          "description": "BasicLimiter is a basic single band limiter. The sound is nothing new, but the design of true peak mode is a bit luxurious.",
+          "pageUrl": "https://ryukau.github.io/VSTPlugins/",
+          "version": "0.1.15",
+          "type": "effect",
+          "screenshotUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/BasicLimiter.png",
+          "tags": [
+            "Fx",
+            "Dynamics"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/BasicLimiter_0.1.15.zip",
               "fileSize": 2541000
             },
             {
@@ -37,7 +82,7 @@
                 "osx"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/BasicLimiter_0.1.15.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/BasicLimiter_0.1.15.zip",
               "fileSize": 2541000
             },
             {
@@ -47,7 +92,7 @@
                 "linux64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/BasicLimiter_0.1.15.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/BasicLimiter_0.1.15.zip",
               "fileSize": 2541000
             }
           ]
@@ -389,17 +434,17 @@
     },
     "ryukau/vstplugins/basic-limiter-auto-make": {
       "slug": "ryukau/vstplugins/basic-limiter-auto-make",
-      "latestVersion": "0.1.15",
+      "latestVersion": "0.1.16",
       "versions": {
-        "0.1.15": {
+        "0.1.16": {
           "name": "BasicLimiterAutoMake",
           "creator": "Takamitsu Endo",
           "license": "gpl-3.0",
           "description": "BasicLimiter is a basic single band limiter. The sound is nothing new, but the design of true peak mode is a bit luxurious.",
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
-          "version": "0.1.15",
+          "version": "0.1.16",
           "type": "effect",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/BasicLimiterAutoMake.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/BasicLimiterAutoMake.png",
           "tags": [
             "Fx",
             "Dynamics"
@@ -412,7 +457,52 @@
                 "win64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/BasicLimiterAutoMake_0.1.15.zip",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/BasicLimiterAutoMake_0.1.16.zip",
+              "fileSize": 2559497
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/BasicLimiterAutoMake_0.1.16.zip",
+              "fileSize": 2559497
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/BasicLimiterAutoMake_0.1.16.zip",
+              "fileSize": 2559497
+            }
+          ]
+        },
+        "0.1.15": {
+          "name": "BasicLimiterAutoMake",
+          "creator": "Takamitsu Endo",
+          "license": "gpl-3.0",
+          "description": "BasicLimiter is a basic single band limiter. The sound is nothing new, but the design of true peak mode is a bit luxurious.",
+          "pageUrl": "https://ryukau.github.io/VSTPlugins/",
+          "version": "0.1.15",
+          "type": "effect",
+          "screenshotUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/BasicLimiterAutoMake.png",
+          "tags": [
+            "Fx",
+            "Dynamics"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/BasicLimiterAutoMake_0.1.15.zip",
               "fileSize": 2558894
             },
             {
@@ -421,7 +511,7 @@
                 "osx"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/BasicLimiterAutoMake_0.1.15.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/BasicLimiterAutoMake_0.1.15.zip",
               "fileSize": 2558894
             },
             {
@@ -431,7 +521,7 @@
                 "linux64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/BasicLimiterAutoMake_0.1.15.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/BasicLimiterAutoMake_0.1.15.zip",
               "fileSize": 2558894
             }
           ]
@@ -737,17 +827,17 @@
     },
     "ryukau/vstplugins/colliding-comb-synth": {
       "slug": "ryukau/vstplugins/colliding-comb-synth",
-      "latestVersion": "0.1.12",
+      "latestVersion": "0.1.13",
       "versions": {
-        "0.1.12": {
+        "0.1.13": {
           "name": "CollidingCombSynth",
           "creator": "Takamitsu Endo",
           "license": "gpl-3.0",
           "description": "CollidingCombSynth is an experimental synthesizer which sounds like bowed string. Equipped with 24 Karplus-Strong string models which collide to each other. Tuning of pitch is possible, but difficult. So mostly suitable for sound effects.",
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
-          "version": "0.1.12",
+          "version": "0.1.13",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/CollidingCombSynth.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/CollidingCombSynth.png",
           "tags": [
             "Instrument",
             "Synth"
@@ -760,7 +850,52 @@
                 "win64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/CollidingCombSynth_0.1.12.zip",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/CollidingCombSynth_0.1.13.zip",
+              "fileSize": 2825504
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/CollidingCombSynth_0.1.13.zip",
+              "fileSize": 2825504
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/CollidingCombSynth_0.1.13.zip",
+              "fileSize": 2825504
+            }
+          ]
+        },
+        "0.1.12": {
+          "name": "CollidingCombSynth",
+          "creator": "Takamitsu Endo",
+          "license": "gpl-3.0",
+          "description": "CollidingCombSynth is an experimental synthesizer which sounds like bowed string. Equipped with 24 Karplus-Strong string models which collide to each other. Tuning of pitch is possible, but difficult. So mostly suitable for sound effects.",
+          "pageUrl": "https://ryukau.github.io/VSTPlugins/",
+          "version": "0.1.12",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/CollidingCombSynth.png",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/CollidingCombSynth_0.1.12.zip",
               "fileSize": 2821154
             },
             {
@@ -769,7 +904,7 @@
                 "osx"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/CollidingCombSynth_0.1.12.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/CollidingCombSynth_0.1.12.zip",
               "fileSize": 2821154
             },
             {
@@ -779,7 +914,7 @@
                 "linux64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/CollidingCombSynth_0.1.12.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/CollidingCombSynth_0.1.12.zip",
               "fileSize": 2821154
             }
           ]
@@ -1166,17 +1301,17 @@
     },
     "ryukau/vstplugins/cubic-pad-synth": {
       "slug": "ryukau/vstplugins/cubic-pad-synth",
-      "latestVersion": "0.1.22",
+      "latestVersion": "0.1.23",
       "versions": {
-        "0.1.22": {
+        "0.1.23": {
           "name": "CubicPadSynth",
           "creator": "Takamitsu Endo",
           "license": "gpl-3.0",
           "description": "CubicPadSynth is a wavetable synthesizer which uses PADsynth algorithm to generate oscillator tables. Cubic interpolation is used to get smooth sound even at inaudible low frequency range. LFO waveform can be directly drawn.",
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
-          "version": "0.1.22",
+          "version": "0.1.23",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/CubicPadSynth.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/CubicPadSynth.png",
           "tags": [
             "Instrument",
             "Synth"
@@ -1189,7 +1324,52 @@
                 "win64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/CubicPadSynth_0.1.22.zip",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/CubicPadSynth_0.1.23.zip",
+              "fileSize": 6315726
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/CubicPadSynth_0.1.23.zip",
+              "fileSize": 6315726
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/CubicPadSynth_0.1.23.zip",
+              "fileSize": 6315726
+            }
+          ]
+        },
+        "0.1.22": {
+          "name": "CubicPadSynth",
+          "creator": "Takamitsu Endo",
+          "license": "gpl-3.0",
+          "description": "CubicPadSynth is a wavetable synthesizer which uses PADsynth algorithm to generate oscillator tables. Cubic interpolation is used to get smooth sound even at inaudible low frequency range. LFO waveform can be directly drawn.",
+          "pageUrl": "https://ryukau.github.io/VSTPlugins/",
+          "version": "0.1.22",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/CubicPadSynth.png",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/CubicPadSynth_0.1.22.zip",
               "fileSize": 6302482
             },
             {
@@ -1198,7 +1378,7 @@
                 "osx"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/CubicPadSynth_0.1.22.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/CubicPadSynth_0.1.22.zip",
               "fileSize": 6302482
             },
             {
@@ -1208,7 +1388,7 @@
                 "linux64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/CubicPadSynth_0.1.22.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/CubicPadSynth_0.1.22.zip",
               "fileSize": 6302482
             }
           ]
@@ -1550,17 +1730,17 @@
     },
     "ryukau/vstplugins/enveloped-sine": {
       "slug": "ryukau/vstplugins/enveloped-sine",
-      "latestVersion": "0.1.21",
+      "latestVersion": "0.1.22",
       "versions": {
-        "0.1.21": {
+        "0.1.22": {
           "name": "EnvelopedSine",
           "creator": "Takamitsu Endo",
           "license": "gpl-3.0",
           "description": "EnvelopedSine is an additive synthesizer that computes 64 sine waves for each note. Difference to IterativeSinCluster is that this synth has AD envelope and saturator for each oscillator. EnvelopedSine is better suited for percussive sounds.",
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
-          "version": "0.1.21",
+          "version": "0.1.22",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/EnvelopedSine.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/EnvelopedSine.png",
           "tags": [
             "Instrument",
             "Synth"
@@ -1573,7 +1753,52 @@
                 "win64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/EnvelopedSine_0.1.21.zip",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/EnvelopedSine_0.1.22.zip",
+              "fileSize": 2871349
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/EnvelopedSine_0.1.22.zip",
+              "fileSize": 2871349
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/EnvelopedSine_0.1.22.zip",
+              "fileSize": 2871349
+            }
+          ]
+        },
+        "0.1.21": {
+          "name": "EnvelopedSine",
+          "creator": "Takamitsu Endo",
+          "license": "gpl-3.0",
+          "description": "EnvelopedSine is an additive synthesizer that computes 64 sine waves for each note. Difference to IterativeSinCluster is that this synth has AD envelope and saturator for each oscillator. EnvelopedSine is better suited for percussive sounds.",
+          "pageUrl": "https://ryukau.github.io/VSTPlugins/",
+          "version": "0.1.21",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/EnvelopedSine.png",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/EnvelopedSine_0.1.21.zip",
               "fileSize": 2862643
             },
             {
@@ -1582,7 +1807,7 @@
                 "osx"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/EnvelopedSine_0.1.21.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/EnvelopedSine_0.1.21.zip",
               "fileSize": 2862643
             },
             {
@@ -1592,7 +1817,7 @@
                 "linux64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/EnvelopedSine_0.1.21.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/EnvelopedSine_0.1.21.zip",
               "fileSize": 2862643
             }
           ]
@@ -1934,17 +2159,17 @@
     },
     "ryukau/vstplugins/es-phaser": {
       "slug": "ryukau/vstplugins/es-phaser",
-      "latestVersion": "0.1.16",
+      "latestVersion": "0.1.17",
       "versions": {
-        "0.1.16": {
+        "0.1.17": {
           "name": "EsPhaser",
           "creator": "Takamitsu Endo",
           "license": "gpl-3.0",
           "description": "EsPhaser is a phaser with up to 4096 stages of order 2 Thiran all-pass filters. This is the same phaser used in EnvelopedSine.",
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
-          "version": "0.1.16",
+          "version": "0.1.17",
           "type": "effect",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/EsPhaser.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/EsPhaser.png",
           "tags": [
             "Fx",
             "Modulation"
@@ -1957,7 +2182,52 @@
                 "win64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/EsPhaser_0.1.16.zip",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/EsPhaser_0.1.17.zip",
+              "fileSize": 2488465
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/EsPhaser_0.1.17.zip",
+              "fileSize": 2488465
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/EsPhaser_0.1.17.zip",
+              "fileSize": 2488465
+            }
+          ]
+        },
+        "0.1.16": {
+          "name": "EsPhaser",
+          "creator": "Takamitsu Endo",
+          "license": "gpl-3.0",
+          "description": "EsPhaser is a phaser with up to 4096 stages of order 2 Thiran all-pass filters. This is the same phaser used in EnvelopedSine.",
+          "pageUrl": "https://ryukau.github.io/VSTPlugins/",
+          "version": "0.1.16",
+          "type": "effect",
+          "screenshotUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/EsPhaser.png",
+          "tags": [
+            "Fx",
+            "Modulation"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/EsPhaser_0.1.16.zip",
               "fileSize": 2488013
             },
             {
@@ -1966,7 +2236,7 @@
                 "osx"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/EsPhaser_0.1.16.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/EsPhaser_0.1.16.zip",
               "fileSize": 2488013
             },
             {
@@ -1976,7 +2246,7 @@
                 "linux64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/EsPhaser_0.1.16.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/EsPhaser_0.1.16.zip",
               "fileSize": 2488013
             }
           ]
@@ -2273,17 +2543,17 @@
     },
     "ryukau/vstplugins/f-d-n-cymbal": {
       "slug": "ryukau/vstplugins/f-d-n-cymbal",
-      "latestVersion": "0.2.15",
+      "latestVersion": "0.2.16",
       "versions": {
-        "0.2.15": {
+        "0.2.16": {
           "name": "FDNCymbal",
           "creator": "Takamitsu Endo",
           "license": "gpl-3.0",
           "description": "FDNCymbal is a cymbal sound synthesizer. It can also be used as an effect. Unlike the name, most of metallic texture comes from Schroeder allpass section rather than FDN (feedback delay network). FDN section makes nice impact sound when `FDN.Time` is short. Tremolo is added to simulate wobbling of cymbal.",
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
-          "version": "0.2.15",
+          "version": "0.2.16",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/FDNCymbal.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/FDNCymbal.png",
           "tags": [
             "Fx",
             "Instrument"
@@ -2296,7 +2566,52 @@
                 "win64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/FDNCymbal_0.2.15.zip",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/FDNCymbal_0.2.16.zip",
+              "fileSize": 2708103
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/FDNCymbal_0.2.16.zip",
+              "fileSize": 2708103
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/FDNCymbal_0.2.16.zip",
+              "fileSize": 2708103
+            }
+          ]
+        },
+        "0.2.15": {
+          "name": "FDNCymbal",
+          "creator": "Takamitsu Endo",
+          "license": "gpl-3.0",
+          "description": "FDNCymbal is a cymbal sound synthesizer. It can also be used as an effect. Unlike the name, most of metallic texture comes from Schroeder allpass section rather than FDN (feedback delay network). FDN section makes nice impact sound when `FDN.Time` is short. Tremolo is added to simulate wobbling of cymbal.",
+          "pageUrl": "https://ryukau.github.io/VSTPlugins/",
+          "version": "0.2.15",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/FDNCymbal.png",
+          "tags": [
+            "Fx",
+            "Instrument"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/FDNCymbal_0.2.15.zip",
               "fileSize": 2708148
             },
             {
@@ -2305,7 +2620,7 @@
                 "osx"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/FDNCymbal_0.2.15.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/FDNCymbal_0.2.15.zip",
               "fileSize": 2708148
             },
             {
@@ -2315,7 +2630,7 @@
                 "linux64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/FDNCymbal_0.2.15.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/FDNCymbal_0.2.15.zip",
               "fileSize": 2708148
             }
           ]
@@ -2612,17 +2927,17 @@
     },
     "ryukau/vstplugins/f-d-n64-reverb": {
       "slug": "ryukau/vstplugins/f-d-n64-reverb",
-      "latestVersion": "0.1.12",
+      "latestVersion": "0.1.13",
       "versions": {
-        "0.1.12": {
+        "0.1.13": {
           "name": "FDN64Reverb",
           "creator": "Takamitsu Endo",
           "license": "gpl-3.0",
           "description": "FDN64Reverb is a reverb equipped with a feedback delay network (FDN). However, the size of feedback matrix is 64.",
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
-          "version": "0.1.12",
+          "version": "0.1.13",
           "type": "effect",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/FDN64Reverb.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/FDN64Reverb.png",
           "tags": [
             "Fx",
             "Reverb"
@@ -2635,7 +2950,52 @@
                 "win64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/FDN64Reverb_0.1.12.zip",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/FDN64Reverb_0.1.13.zip",
+              "fileSize": 2806735
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/FDN64Reverb_0.1.13.zip",
+              "fileSize": 2806735
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/FDN64Reverb_0.1.13.zip",
+              "fileSize": 2806735
+            }
+          ]
+        },
+        "0.1.12": {
+          "name": "FDN64Reverb",
+          "creator": "Takamitsu Endo",
+          "license": "gpl-3.0",
+          "description": "FDN64Reverb is a reverb equipped with a feedback delay network (FDN). However, the size of feedback matrix is 64.",
+          "pageUrl": "https://ryukau.github.io/VSTPlugins/",
+          "version": "0.1.12",
+          "type": "effect",
+          "screenshotUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/FDN64Reverb.png",
+          "tags": [
+            "Fx",
+            "Reverb"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/FDN64Reverb_0.1.12.zip",
               "fileSize": 2796867
             },
             {
@@ -2644,7 +3004,7 @@
                 "osx"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/FDN64Reverb_0.1.12.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/FDN64Reverb_0.1.12.zip",
               "fileSize": 2796867
             },
             {
@@ -2654,7 +3014,7 @@
                 "linux64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/FDN64Reverb_0.1.12.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/FDN64Reverb_0.1.12.zip",
               "fileSize": 2796867
             }
           ]
@@ -2951,17 +3311,17 @@
     },
     "ryukau/vstplugins/iterative-sin-cluster": {
       "slug": "ryukau/vstplugins/iterative-sin-cluster",
-      "latestVersion": "0.1.23",
+      "latestVersion": "0.1.24",
       "versions": {
-        "0.1.23": {
+        "0.1.24": {
           "name": "IterativeSinCluster",
           "creator": "Takamitsu Endo",
           "license": "gpl-3.0",
           "description": "IterativeSinCluster is an additive synthesizer. This synth computes 512 sine waves for each note to make tone cluster. I somehow thought \"iterative sin\" is a valid term. Correct term is \"recursive sine\".",
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
-          "version": "0.1.23",
+          "version": "0.1.24",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/IterativeSinCluster.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/IterativeSinCluster.png",
           "tags": [
             "Instrument",
             "Synth"
@@ -2974,7 +3334,52 @@
                 "win64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/IterativeSinCluster_0.1.23.zip",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/IterativeSinCluster_0.1.24.zip",
+              "fileSize": 2799100
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/IterativeSinCluster_0.1.24.zip",
+              "fileSize": 2799100
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/IterativeSinCluster_0.1.24.zip",
+              "fileSize": 2799100
+            }
+          ]
+        },
+        "0.1.23": {
+          "name": "IterativeSinCluster",
+          "creator": "Takamitsu Endo",
+          "license": "gpl-3.0",
+          "description": "IterativeSinCluster is an additive synthesizer. This synth computes 512 sine waves for each note to make tone cluster. I somehow thought \"iterative sin\" is a valid term. Correct term is \"recursive sine\".",
+          "pageUrl": "https://ryukau.github.io/VSTPlugins/",
+          "version": "0.1.23",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/IterativeSinCluster.png",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/IterativeSinCluster_0.1.23.zip",
               "fileSize": 2790770
             },
             {
@@ -2983,7 +3388,7 @@
                 "osx"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/IterativeSinCluster_0.1.23.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/IterativeSinCluster_0.1.23.zip",
               "fileSize": 2790770
             },
             {
@@ -2993,7 +3398,7 @@
                 "linux64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/IterativeSinCluster_0.1.23.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/IterativeSinCluster_0.1.23.zip",
               "fileSize": 2790770
             }
           ]
@@ -3335,17 +3740,17 @@
     },
     "ryukau/vstplugins/l3-reverb": {
       "slug": "ryukau/vstplugins/l3-reverb",
-      "latestVersion": "0.1.16",
+      "latestVersion": "0.1.17",
       "versions": {
-        "0.1.16": {
+        "0.1.17": {
           "name": "L3Reverb",
           "creator": "Takamitsu Endo",
           "license": "gpl-3.0",
           "description": "L4Reverb is an extended version of LatticeReverb. This time, lattice structure has 4 * 4 * 4 * 4 = 256 sections per channel.",
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
-          "version": "0.1.16",
+          "version": "0.1.17",
           "type": "effect",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/L3Reverb.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/L3Reverb.png",
           "tags": [
             "Fx",
             "Reverb"
@@ -3358,7 +3763,52 @@
                 "win64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/L3Reverb_0.1.16.zip",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/L3Reverb_0.1.17.zip",
+              "fileSize": 2783185
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/L3Reverb_0.1.17.zip",
+              "fileSize": 2783185
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/L3Reverb_0.1.17.zip",
+              "fileSize": 2783185
+            }
+          ]
+        },
+        "0.1.16": {
+          "name": "L3Reverb",
+          "creator": "Takamitsu Endo",
+          "license": "gpl-3.0",
+          "description": "L4Reverb is an extended version of LatticeReverb. This time, lattice structure has 4 * 4 * 4 * 4 = 256 sections per channel.",
+          "pageUrl": "https://ryukau.github.io/VSTPlugins/",
+          "version": "0.1.16",
+          "type": "effect",
+          "screenshotUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/L3Reverb.png",
+          "tags": [
+            "Fx",
+            "Reverb"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/L3Reverb_0.1.16.zip",
               "fileSize": 2775825
             },
             {
@@ -3367,7 +3817,7 @@
                 "osx"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/L3Reverb_0.1.16.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/L3Reverb_0.1.16.zip",
               "fileSize": 2775825
             },
             {
@@ -3377,7 +3827,7 @@
                 "linux64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/L3Reverb_0.1.16.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/L3Reverb_0.1.16.zip",
               "fileSize": 2775825
             }
           ]
@@ -3683,17 +4133,17 @@
     },
     "ryukau/vstplugins/l4-reverb": {
       "slug": "ryukau/vstplugins/l4-reverb",
-      "latestVersion": "0.1.16",
+      "latestVersion": "0.1.17",
       "versions": {
-        "0.1.16": {
+        "0.1.17": {
           "name": "L4Reverb",
           "creator": "Takamitsu Endo",
           "license": "gpl-3.0",
           "description": "L4Reverb is an extended version of LatticeReverb. This time, lattice structure has 4 * 4 * 4 * 4 = 256 sections per channel.",
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
-          "version": "0.1.16",
+          "version": "0.1.17",
           "type": "effect",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/L4Reverb.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/L4Reverb.png",
           "tags": [
             "Fx",
             "Reverb"
@@ -3706,7 +4156,52 @@
                 "win64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/L4Reverb_0.1.16.zip",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/L4Reverb_0.1.17.zip",
+              "fileSize": 2772696
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/L4Reverb_0.1.17.zip",
+              "fileSize": 2772696
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/L4Reverb_0.1.17.zip",
+              "fileSize": 2772696
+            }
+          ]
+        },
+        "0.1.16": {
+          "name": "L4Reverb",
+          "creator": "Takamitsu Endo",
+          "license": "gpl-3.0",
+          "description": "L4Reverb is an extended version of LatticeReverb. This time, lattice structure has 4 * 4 * 4 * 4 = 256 sections per channel.",
+          "pageUrl": "https://ryukau.github.io/VSTPlugins/",
+          "version": "0.1.16",
+          "type": "effect",
+          "screenshotUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/L4Reverb.png",
+          "tags": [
+            "Fx",
+            "Reverb"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/L4Reverb_0.1.16.zip",
               "fileSize": 2766044
             },
             {
@@ -3715,7 +4210,7 @@
                 "osx"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/L4Reverb_0.1.16.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/L4Reverb_0.1.16.zip",
               "fileSize": 2766044
             },
             {
@@ -3725,7 +4220,7 @@
                 "linux64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/L4Reverb_0.1.16.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/L4Reverb_0.1.16.zip",
               "fileSize": 2766044
             }
           ]
@@ -4112,17 +4607,17 @@
     },
     "ryukau/vstplugins/lattice-reverb": {
       "slug": "ryukau/vstplugins/lattice-reverb",
-      "latestVersion": "0.1.19",
+      "latestVersion": "0.1.20",
       "versions": {
-        "0.1.19": {
+        "0.1.20": {
           "name": "LatticeReverb",
           "creator": "Takamitsu Endo",
           "license": "gpl-3.0",
           "description": "LatticeReverb is a reverb using lattice structure. Equipped with 16 delays per channel.",
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
-          "version": "0.1.19",
+          "version": "0.1.20",
           "type": "effect",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/LatticeReverb.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/LatticeReverb.png",
           "tags": [
             "Fx",
             "Reverb"
@@ -4135,7 +4630,52 @@
                 "win64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/LatticeReverb_0.1.19.zip",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/LatticeReverb_0.1.20.zip",
+              "fileSize": 2793533
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/LatticeReverb_0.1.20.zip",
+              "fileSize": 2793533
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/LatticeReverb_0.1.20.zip",
+              "fileSize": 2793533
+            }
+          ]
+        },
+        "0.1.19": {
+          "name": "LatticeReverb",
+          "creator": "Takamitsu Endo",
+          "license": "gpl-3.0",
+          "description": "LatticeReverb is a reverb using lattice structure. Equipped with 16 delays per channel.",
+          "pageUrl": "https://ryukau.github.io/VSTPlugins/",
+          "version": "0.1.19",
+          "type": "effect",
+          "screenshotUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/LatticeReverb.png",
+          "tags": [
+            "Fx",
+            "Reverb"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/LatticeReverb_0.1.19.zip",
               "fileSize": 2784734
             },
             {
@@ -4144,7 +4684,7 @@
                 "osx"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/LatticeReverb_0.1.19.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/LatticeReverb_0.1.19.zip",
               "fileSize": 2784734
             },
             {
@@ -4154,7 +4694,7 @@
                 "linux64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/LatticeReverb_0.1.19.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/LatticeReverb_0.1.19.zip",
               "fileSize": 2784734
             }
           ]
@@ -4541,17 +5081,17 @@
     },
     "ryukau/vstplugins/light-pad-synth": {
       "slug": "ryukau/vstplugins/light-pad-synth",
-      "latestVersion": "0.1.20",
+      "latestVersion": "0.1.21",
       "versions": {
-        "0.1.20": {
+        "0.1.21": {
           "name": "LightPadSynth",
           "creator": "Takamitsu Endo",
           "license": "gpl-3.0",
           "description": "LightPadSynth is a lightweight version of CubicPadSynth. For efficiency, interpolation is changed to linear. Also pitch modulation is omitted. Instead, a delay is added for each voice.",
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
-          "version": "0.1.20",
+          "version": "0.1.21",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/LightPadSynth.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/LightPadSynth.png",
           "tags": [
             "Instrument",
             "Synth"
@@ -4564,7 +5104,52 @@
                 "win64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/LightPadSynth_0.1.20.zip",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/LightPadSynth_0.1.21.zip",
+              "fileSize": 3055283
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/LightPadSynth_0.1.21.zip",
+              "fileSize": 3055283
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/LightPadSynth_0.1.21.zip",
+              "fileSize": 3055283
+            }
+          ]
+        },
+        "0.1.20": {
+          "name": "LightPadSynth",
+          "creator": "Takamitsu Endo",
+          "license": "gpl-3.0",
+          "description": "LightPadSynth is a lightweight version of CubicPadSynth. For efficiency, interpolation is changed to linear. Also pitch modulation is omitted. Instead, a delay is added for each voice.",
+          "pageUrl": "https://ryukau.github.io/VSTPlugins/",
+          "version": "0.1.20",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/LightPadSynth.png",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/LightPadSynth_0.1.20.zip",
               "fileSize": 3044859
             },
             {
@@ -4573,7 +5158,7 @@
                 "osx"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/LightPadSynth_0.1.20.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/LightPadSynth_0.1.20.zip",
               "fileSize": 3044859
             },
             {
@@ -4583,7 +5168,7 @@
                 "linux64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/LightPadSynth_0.1.20.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/LightPadSynth_0.1.20.zip",
               "fileSize": 3044859
             }
           ]
@@ -4970,17 +5555,17 @@
     },
     "ryukau/vstplugins/seven-delay": {
       "slug": "ryukau/vstplugins/seven-delay",
-      "latestVersion": "0.1.24",
+      "latestVersion": "0.1.25",
       "versions": {
-        "0.1.24": {
+        "0.1.25": {
           "name": "SevenDelay",
           "creator": "Takamitsu Endo",
           "license": "gpl-3.0",
           "description": "SevenDelay is a stereo delay with 7th order lagrange interpolated fractional delay and 7x oversampling.",
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
-          "version": "0.1.24",
+          "version": "0.1.25",
           "type": "effect",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/SevenDelay.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/SevenDelay.png",
           "tags": [
             "Fx",
             "Delay"
@@ -4993,7 +5578,52 @@
                 "win64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/SevenDelay_0.1.24.zip",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/SevenDelay_0.1.25.zip",
+              "fileSize": 2645090
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/SevenDelay_0.1.25.zip",
+              "fileSize": 2645090
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/SevenDelay_0.1.25.zip",
+              "fileSize": 2645090
+            }
+          ]
+        },
+        "0.1.24": {
+          "name": "SevenDelay",
+          "creator": "Takamitsu Endo",
+          "license": "gpl-3.0",
+          "description": "SevenDelay is a stereo delay with 7th order lagrange interpolated fractional delay and 7x oversampling.",
+          "pageUrl": "https://ryukau.github.io/VSTPlugins/",
+          "version": "0.1.24",
+          "type": "effect",
+          "screenshotUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/SevenDelay.png",
+          "tags": [
+            "Fx",
+            "Delay"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/SevenDelay_0.1.24.zip",
               "fileSize": 2645038
             },
             {
@@ -5002,7 +5632,7 @@
                 "osx"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/SevenDelay_0.1.24.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/SevenDelay_0.1.24.zip",
               "fileSize": 2645038
             },
             {
@@ -5012,7 +5642,7 @@
                 "linux64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/SevenDelay_0.1.24.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/SevenDelay_0.1.24.zip",
               "fileSize": 2645038
             }
           ]
@@ -5354,17 +5984,17 @@
     },
     "ryukau/vstplugins/sync-saw-synth": {
       "slug": "ryukau/vstplugins/sync-saw-synth",
-      "latestVersion": "0.1.25",
+      "latestVersion": "0.1.26",
       "versions": {
-        "0.1.25": {
+        "0.1.26": {
           "name": "SyncSawSynth",
           "creator": "Takamitsu Endo",
           "license": "gpl-3.0",
           "description": "SyncSawSynth is a 32 voice polyphonic synthesizer using up to 10th order PTR sawtooth oscillator. Just a basic synthesizer but very easy to make a noise similar to low battery sound of some toys.",
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
-          "version": "0.1.25",
+          "version": "0.1.26",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.50.0/SyncSawSynth.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/SyncSawSynth.png",
           "tags": [
             "Instrument",
             "Synth"
@@ -5377,7 +6007,52 @@
                 "win64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.50.0/SyncSawSynth_0.1.25.zip",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/SyncSawSynth_0.1.26.zip",
+              "fileSize": 2683547
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/SyncSawSynth_0.1.26.zip",
+              "fileSize": 2683547
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/SyncSawSynth_0.1.26.zip",
+              "fileSize": 2683547
+            }
+          ]
+        },
+        "0.1.25": {
+          "name": "SyncSawSynth",
+          "creator": "Takamitsu Endo",
+          "license": "gpl-3.0",
+          "description": "SyncSawSynth is a 32 voice polyphonic synthesizer using up to 10th order PTR sawtooth oscillator. Just a basic synthesizer but very easy to make a noise similar to low battery sound of some toys.",
+          "pageUrl": "https://ryukau.github.io/VSTPlugins/",
+          "version": "0.1.25",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.50.0/SyncSawSynth.png",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.50.0/SyncSawSynth_0.1.25.zip",
               "fileSize": 2685014
             },
             {
@@ -5386,7 +6061,7 @@
                 "osx"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.50.0/SyncSawSynth_0.1.25.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.50.0/SyncSawSynth_0.1.25.zip",
               "fileSize": 2685014
             },
             {
@@ -5396,7 +6071,7 @@
                 "linux64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.50.0/SyncSawSynth_0.1.25.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.50.0/SyncSawSynth_0.1.25.zip",
               "fileSize": 2685014
             }
           ]
@@ -5648,17 +6323,17 @@
     },
     "ryukau/vstplugins/trapezoid-synth": {
       "slug": "ryukau/vstplugins/trapezoid-synth",
-      "latestVersion": "0.1.22",
+      "latestVersion": "0.1.23",
       "versions": {
-        "0.1.22": {
+        "0.1.23": {
           "name": "TrapezoidSynth",
           "creator": "Takamitsu Endo",
           "license": "gpl-3.0",
           "description": "TrapezoidSynth is a monophonic synthesizer equipped with 2 trapezoid oscillator. Trapezoid oscillator is based on PTR (Polynomial Transition Regions) and it has a drawback that increasing noise at high frequency. Therefore 8 times oversampled. 2 pitch shifters are added to make some chord.",
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
-          "version": "0.1.22",
+          "version": "0.1.23",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/TrapezoidSynth.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/TrapezoidSynth.png",
           "tags": [
             "Instrument",
             "Synth"
@@ -5671,7 +6346,52 @@
                 "win64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/TrapezoidSynth_0.1.22.zip",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/TrapezoidSynth_0.1.23.zip",
+              "fileSize": 2689044
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/TrapezoidSynth_0.1.23.zip",
+              "fileSize": 2689044
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/TrapezoidSynth_0.1.23.zip",
+              "fileSize": 2689044
+            }
+          ]
+        },
+        "0.1.22": {
+          "name": "TrapezoidSynth",
+          "creator": "Takamitsu Endo",
+          "license": "gpl-3.0",
+          "description": "TrapezoidSynth is a monophonic synthesizer equipped with 2 trapezoid oscillator. Trapezoid oscillator is based on PTR (Polynomial Transition Regions) and it has a drawback that increasing noise at high frequency. Therefore 8 times oversampled. 2 pitch shifters are added to make some chord.",
+          "pageUrl": "https://ryukau.github.io/VSTPlugins/",
+          "version": "0.1.22",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/TrapezoidSynth.png",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/TrapezoidSynth_0.1.22.zip",
               "fileSize": 2689532
             },
             {
@@ -5680,7 +6400,7 @@
                 "osx"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/TrapezoidSynth_0.1.22.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/TrapezoidSynth_0.1.22.zip",
               "fileSize": 2689532
             },
             {
@@ -5690,7 +6410,7 @@
                 "linux64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/TrapezoidSynth_0.1.22.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/TrapezoidSynth_0.1.22.zip",
               "fileSize": 2689532
             }
           ]
@@ -5987,17 +6707,17 @@
     },
     "ryukau/vstplugins/wave-cymbal": {
       "slug": "ryukau/vstplugins/wave-cymbal",
-      "latestVersion": "0.1.22",
+      "latestVersion": "0.1.23",
       "versions": {
-        "0.1.22": {
+        "0.1.23": {
           "name": "WaveCymbal",
           "creator": "Takamitsu Endo",
           "license": "gpl-3.0",
           "description": "WaveCymbal is an attempt to make a cymbal synthesizer with banded wave-guide model. The result is more like dragging bunch of empty cans or thin metal plate on asphalt rather than cymbal.",
           "pageUrl": "https://ryukau.github.io/VSTPlugins/",
-          "version": "0.1.22",
+          "version": "0.1.23",
           "type": "instrument",
-          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/WaveCymbal.png",
+          "screenshotUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/WaveCymbal.png",
           "tags": [
             "Fx",
             "Instrument"
@@ -6010,7 +6730,52 @@
                 "win64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/WaveCymbal_0.1.22.zip",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/WaveCymbal_0.1.23.zip",
+              "fileSize": 2656968
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/WaveCymbal_0.1.23.zip",
+              "fileSize": 2656968
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.53.0/WaveCymbal_0.1.23.zip",
+              "fileSize": 2656968
+            }
+          ]
+        },
+        "0.1.22": {
+          "name": "WaveCymbal",
+          "creator": "Takamitsu Endo",
+          "license": "gpl-3.0",
+          "description": "WaveCymbal is an attempt to make a cymbal synthesizer with banded wave-guide model. The result is more like dragging bunch of empty cans or thin metal plate on asphalt rather than cymbal.",
+          "pageUrl": "https://ryukau.github.io/VSTPlugins/",
+          "version": "0.1.22",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/WaveCymbal.png",
+          "tags": [
+            "Fx",
+            "Instrument"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "format": "unknown",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/WaveCymbal_0.1.22.zip",
               "fileSize": 2656461
             },
             {
@@ -6019,7 +6784,7 @@
                 "osx"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/WaveCymbal_0.1.22.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/WaveCymbal_0.1.22.zip",
               "fileSize": 2656461
             },
             {
@@ -6029,7 +6794,7 @@
                 "linux64"
               ],
               "format": "unknown",
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.52.0/WaveCymbal_0.1.22.zip",
+              "downloadUrl": "https://github.com/undefined/releases/download/UhhyouPlugins0.52.0/WaveCymbal_0.1.22.zip",
               "fileSize": 2656461
             }
           ]
