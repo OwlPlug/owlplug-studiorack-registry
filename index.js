@@ -114,7 +114,7 @@ function createBundles(SRVersion) {
     let bundle = {
       name: "Windows Release",
       targets: ["win32", "win64"],
-      format: "unknown",
+      formats: ["unknown"],
       downloadUrl: SRDownloadUrl(SRVersion.repo, SRVersion.release, SRVersion.files.win.name),
       fileSize: SRVersion.files.win.size
     }
@@ -124,7 +124,7 @@ function createBundles(SRVersion) {
     let bundle = {
       name: "MacOS Release",
       targets: ["osx"],
-      format: "unknown",
+      formats: ["unknown"],
       downloadUrl: SRDownloadUrl(SRVersion.repo, SRVersion.release, SRVersion.files.mac.name),
       fileSize: SRVersion.files.mac.size
     }
@@ -134,7 +134,7 @@ function createBundles(SRVersion) {
     let bundle = {
       name: "Linux Release",
       targets: ["linux32", "linux64"],
-      format: "unknown",
+      formats: ["unknown"],
       downloadUrl: SRDownloadUrl(SRVersion.repo, SRVersion.release, SRVersion.files.linux.name),
       fileSize: SRVersion.files.linux.size
     }
