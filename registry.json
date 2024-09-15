@@ -1724,8 +1724,59 @@
     },
     "sjoerdvankreel/firefly-synth/io.github.sjoerdvankreel.firefly_synth": {
       "slug": "sjoerdvankreel/firefly-synth/io.github.sjoerdvankreel.firefly_synth",
-      "latestVersion": "1.9.1",
+      "latestVersion": "1.9.2",
       "versions": {
+        "1.9.2": {
+          "name": "Firefly Synth",
+          "creator": "Sjoerd van Kreel",
+          "license": "gpl-3.0",
+          "description": "Firefly Synth",
+          "pageUrl": "https://github.com/sjoerdvankreel/firefly-synth",
+          "version": "1.9.2",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/sjoerdvankreel/firefly-synth/releases/download/v1.9.2/studiorack.jpg",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "formats": [
+                "unknown"
+              ],
+              "downloadUrl": "https://github.com/sjoerdvankreel/firefly-synth/releases/download/v1.9.2/firefly_synth_1.9.2_windows_vst3_instrument.zip",
+              "fileSize": 3386864
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "formats": [
+                "unknown"
+              ],
+              "downloadUrl": "https://github.com/sjoerdvankreel/firefly-synth/releases/download/v1.9.2/firefly_synth_1.9.2_mac_vst3_instrument.zip",
+              "fileSize": 9574316
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "formats": [
+                "unknown"
+              ],
+              "downloadUrl": "https://github.com/sjoerdvankreel/firefly-synth/releases/download/v1.9.2/firefly_synth_1.9.2_linux_vst3_instrument.zip",
+              "fileSize": 5821865
+            }
+          ]
+        },
         "1.9.1": {
           "name": "Firefly Synth",
           "creator": "Sjoerd van Kreel",
