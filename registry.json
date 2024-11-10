@@ -1698,10 +1698,120 @@
         }
       }
     },
+    "sjoerdvankreel/firefly-synth/firefly-synth": {
+      "slug": "sjoerdvankreel/firefly-synth/firefly-synth",
+      "latestVersion": "1.9.7",
+      "versions": {
+        "1.9.7": {
+          "name": "firefly-synth",
+          "creator": "sjoerdvankreel",
+          "license": "gpl-3.0",
+          "description": "Semi-modular synthesizer and FX plugin for Windows, Linux and Mac, VST3 and CLAP.",
+          "pageUrl": "http://firefly-synth.com/",
+          "version": "1.9.7",
+          "type": "unknown",
+          "screenshotUrl": null,
+          "tags": [
+            "audio-plugin",
+            "clap-plugin",
+            "software-synthesizer",
+            "vst3-plugin"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "formats": [
+                "unknown"
+              ],
+              "downloadUrl": "https://github.com/sjoerdvankreel/firefly-synth/releases/download/v1.9.7/firefly_synth_1.9.7_windows_vst3_fx.zip",
+              "fileSize": 2895632
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "formats": [
+                "unknown"
+              ],
+              "downloadUrl": "https://github.com/sjoerdvankreel/firefly-synth/releases/download/v1.9.7/firefly_synth_1.9.7_mac_vst3_instrument.zip",
+              "fileSize": 9929032
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "formats": [
+                "unknown"
+              ],
+              "downloadUrl": "https://github.com/sjoerdvankreel/firefly-synth/releases/download/v1.9.7/firefly_synth_1.9.7_linux_vst3_fx.zip",
+              "fileSize": 6145133
+            }
+          ]
+        }
+      }
+    },
     "sjoerdvankreel/firefly-synth/io.github.sjoerdvankreel.firefly_synth": {
       "slug": "sjoerdvankreel/firefly-synth/io.github.sjoerdvankreel.firefly_synth",
-      "latestVersion": "1.9.5",
+      "latestVersion": "1.9.8",
       "versions": {
+        "1.9.8": {
+          "name": "Firefly Synth",
+          "creator": "Sjoerd van Kreel",
+          "license": "gpl-3.0",
+          "description": "Firefly Synth",
+          "pageUrl": "https://github.com/sjoerdvankreel/firefly-synth",
+          "version": "1.9.8",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/sjoerdvankreel/firefly-synth/releases/download/v1.9.8/studiorack.jpg",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "formats": [
+                "unknown"
+              ],
+              "downloadUrl": "https://github.com/sjoerdvankreel/firefly-synth/releases/download/v1.9.8/firefly_synth_1.9.8_windows_vst3_instrument.zip",
+              "fileSize": 2948041
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "formats": [
+                "unknown"
+              ],
+              "downloadUrl": "https://github.com/sjoerdvankreel/firefly-synth/releases/download/v1.9.8/firefly_synth_1.9.8_mac_vst3_instrument.zip",
+              "fileSize": 10049725
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "formats": [
+                "unknown"
+              ],
+              "downloadUrl": "https://github.com/sjoerdvankreel/firefly-synth/releases/download/v1.9.8/firefly_synth_1.9.8_linux_vst3_instrument.zip",
+              "fileSize": 6264659
+            }
+          ]
+        },
         "1.9.5": {
           "name": "Firefly Synth",
           "creator": "Sjoerd van Kreel",
