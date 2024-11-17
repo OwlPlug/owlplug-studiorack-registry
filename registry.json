@@ -917,8 +917,32 @@
     },
     "ryukau/vstplugins/vstplugins": {
       "slug": "ryukau/vstplugins/vstplugins",
-      "latestVersion": "0.64.0",
+      "latestVersion": "0.65.0",
       "versions": {
+        "0.65.0": {
+          "name": "VSTPlugins",
+          "creator": "ryukau",
+          "license": "gpl-3.0",
+          "description": "Uhhyou Plugins VST 3 repository.",
+          "pageUrl": "https://ryukau.github.io/VSTPlugins/",
+          "version": "0.65.0",
+          "type": "unknown",
+          "screenshotUrl": null,
+          "tags": [],
+          "bundles": [
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "formats": [
+                "unknown"
+              ],
+              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.65.0/feedbackphaser_0.1.4_macos.zip",
+              "fileSize": 1103531
+            }
+          ]
+        },
         "0.64.0": {
           "name": "VSTPlugins",
           "creator": "ryukau",
@@ -1590,54 +1614,6 @@
               "fileSize": 1339381
             }
           ]
-        },
-        "0.49.0": {
-          "name": "VSTPlugins",
-          "creator": "ryukau",
-          "license": "gpl-3.0",
-          "description": "Uhhyou Plugins VST 3 repository.",
-          "pageUrl": "https://ryukau.github.io/VSTPlugins/",
-          "version": "0.49.0",
-          "type": "unknown",
-          "screenshotUrl": null,
-          "tags": [],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "formats": [
-                "unknown"
-              ],
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.49.0/ultrasynth_0.1.1.zip",
-              "fileSize": 2665262
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "formats": [
-                "unknown"
-              ],
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.49.0/ultrasynth_0.1.1.zip",
-              "fileSize": 2665262
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "formats": [
-                "unknown"
-              ],
-              "downloadUrl": "https://github.com/ryukau/vstplugins/releases/download/UhhyouPlugins0.49.0/ultrasynth_0.1.1.zip",
-              "fileSize": 2665262
-            }
-          ]
         }
       }
     },
@@ -1759,8 +1735,59 @@
     },
     "sjoerdvankreel/firefly-synth/io.github.sjoerdvankreel.firefly_synth": {
       "slug": "sjoerdvankreel/firefly-synth/io.github.sjoerdvankreel.firefly_synth",
-      "latestVersion": "1.9.8",
+      "latestVersion": "1.9.9",
       "versions": {
+        "1.9.9": {
+          "name": "Firefly Synth",
+          "creator": "Sjoerd van Kreel",
+          "license": "gpl-3.0",
+          "description": "Firefly Synth",
+          "pageUrl": "https://github.com/sjoerdvankreel/firefly-synth",
+          "version": "1.9.9",
+          "type": "instrument",
+          "screenshotUrl": "https://github.com/sjoerdvankreel/firefly-synth/releases/download/v1.9.9/studiorack.jpg",
+          "tags": [
+            "Instrument",
+            "Synth"
+          ],
+          "bundles": [
+            {
+              "name": "Windows Release",
+              "targets": [
+                "win32",
+                "win64"
+              ],
+              "formats": [
+                "unknown"
+              ],
+              "downloadUrl": "https://github.com/sjoerdvankreel/firefly-synth/releases/download/v1.9.9/firefly_synth_1.9.9_windows_vst3_instrument.zip",
+              "fileSize": 3724553
+            },
+            {
+              "name": "MacOS Release",
+              "targets": [
+                "osx"
+              ],
+              "formats": [
+                "unknown"
+              ],
+              "downloadUrl": "https://github.com/sjoerdvankreel/firefly-synth/releases/download/v1.9.9/firefly_synth_1.9.9_mac_vst3_instrument.zip",
+              "fileSize": 11996729
+            },
+            {
+              "name": "Linux Release",
+              "targets": [
+                "linux32",
+                "linux64"
+              ],
+              "formats": [
+                "unknown"
+              ],
+              "downloadUrl": "https://github.com/sjoerdvankreel/firefly-synth/releases/download/v1.9.9/firefly_synth_1.9.9_linux_vst3_instrument.zip",
+              "fileSize": 7394135
+            }
+          ]
+        },
         "1.9.8": {
           "name": "Firefly Synth",
           "creator": "Sjoerd van Kreel",
@@ -2624,57 +2651,6 @@
                 "unknown"
               ],
               "downloadUrl": "https://github.com/sjoerdvankreel/firefly-synth/releases/download/v1.7.8/firefly_synth_1.7.8_linux_vst3_instrument.zip",
-              "fileSize": 5787856
-            }
-          ]
-        },
-        "1.7.7": {
-          "name": "Firefly Synth",
-          "creator": "Sjoerd van Kreel",
-          "license": "gpl-3.0",
-          "description": "Firefly Synth",
-          "pageUrl": "https://github.com/sjoerdvankreel/firefly-synth",
-          "version": "1.7.7",
-          "type": "instrument",
-          "screenshotUrl": "https://github.com/sjoerdvankreel/firefly-synth/releases/download/v1.7.7/studiorack.jpg",
-          "tags": [
-            "Instrument",
-            "Synth"
-          ],
-          "bundles": [
-            {
-              "name": "Windows Release",
-              "targets": [
-                "win32",
-                "win64"
-              ],
-              "formats": [
-                "unknown"
-              ],
-              "downloadUrl": "https://github.com/sjoerdvankreel/firefly-synth/releases/download/v1.7.7/firefly_synth_1.7.7_windows_vst3_instrument.zip",
-              "fileSize": 3087348
-            },
-            {
-              "name": "MacOS Release",
-              "targets": [
-                "osx"
-              ],
-              "formats": [
-                "unknown"
-              ],
-              "downloadUrl": "https://github.com/sjoerdvankreel/firefly-synth/releases/download/v1.7.7/firefly_synth_1.7.7_mac_vst3_instrument.zip",
-              "fileSize": 8549464
-            },
-            {
-              "name": "Linux Release",
-              "targets": [
-                "linux32",
-                "linux64"
-              ],
-              "formats": [
-                "unknown"
-              ],
-              "downloadUrl": "https://github.com/sjoerdvankreel/firefly-synth/releases/download/v1.7.7/firefly_synth_1.7.7_linux_vst3_instrument.zip",
               "fileSize": 5787856
             }
           ]
